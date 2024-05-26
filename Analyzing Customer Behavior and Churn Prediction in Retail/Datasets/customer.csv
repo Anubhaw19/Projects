@@ -1,0 +1,2001 @@
+CustomerID,Gender,Age,Annual Income ($),Profession,Work Experience,Family Size,City
+1,Male,19,15000,Healthcare,1,4,Raleigh
+2,Male,21,35000,Engineer,3,3,Detroit
+3,Female,20,86000,Engineer,1,1,San Antonio
+4,Female,23,59000,Lawyer,0,2,Detroit
+5,Female,31,38000,Entertainment,2,6,Tulsa
+6,Female,22,58000,Artist,0,2,Fort Worth
+7,Female,35,31000,Healthcare,1,3,Dallas
+8,Female,23,84000,Healthcare,1,3,San Francisco
+9,Male,64,97000,Engineer,0,3,Tucson
+10,Female,30,98000,Artist,1,4,Colorado Springs
+11,Male,67,7000,Engineer,1,3,Fresno
+12,Female,35,93000,Healthcare,4,4,Baltimore
+13,Female,58,80000,Executive,0,5,San Francisco
+14,Female,24,91000,Lawyer,1,1,Wichita
+15,Male,37,19000,Doctor,0,1,Indianapolis
+16,Male,22,51000,Healthcare,1,2,Oakland
+17,Female,35,29000,Homemaker,9,5,Colorado Springs
+18,Male,20,89000,Healthcare,1,6,New Orleans
+19,Male,52,20000,Entertainment,1,4,Houston
+20,Female,35,62000,Artist,0,1,El Paso
+21,Male,35,96000,Homemaker,12,1,Tucson
+22,Male,25,4000,Healthcare,3,4,Kansas City
+23,Female,46,42000,Artist,13,2,Dallas
+24,Male,31,71000,Artist,5,2,Milwaukee
+25,Female,54,67000,Executive,1,3,Fresno
+26,Male,29,52000,Artist,1,3,Colorado Springs
+27,Female,45,68000,Healthcare,9,8,Charlotte
+28,Male,35,78000,Artist,1,3,Dallas
+29,Female,40,18000,Artist,0,1,Virginia Beach
+30,Female,23,20000,Artist,5,4,Omaha
+31,Male,60,39000,Artist,0,3,Louisville
+32,Female,21,34000,Doctor,1,2,Albuquerque
+33,Male,53,59000,Healthcare,1,3,Indianapolis
+34,Male,18,62000,Homemaker,9,7,Oakland
+35,Female,49,91000,Lawyer,1,2,San Diego
+36,Female,21,95000,Healthcare,3,4,Dallas
+37,Female,42,14000,Doctor,5,1,Fresno
+38,Female,30,62000,Healthcare,1,5,Minneapolis
+39,Female,36,9000,Artist,8,2,Oklahoma City
+40,Female,20,69000,Artist,8,2,Wichita
+41,Female,65,25000,Artist,4,1,Louisville
+42,Male,24,85000,Healthcare,0,2,San Antonio
+43,Male,48,22000,Artist,14,3,Dallas
+44,Female,31,33000,Artist,1,2,Kansas City
+45,Female,49,72000,Engineer,8,1,Baltimore
+46,Female,24,3000,Lawyer,4,2,Albuquerque
+47,Female,50,52000,Artist,0,4,Raleigh
+48,Female,27,71000,Healthcare,12,1,Washington
+49,Female,29,78000,Healthcare,0,4,Milwaukee
+50,Female,31,25000,Engineer,1,1,Boston
+51,Female,49,88000,Artist,1,2,Phoenix
+52,Male,33,97000,Artist,1,2,Omaha
+53,Female,31,74000,Artist,1,1,Miami
+54,Male,59,68000,Entertainment,0,2,Raleigh
+55,Female,50,18000,Marketing,1,1,San Antonio
+56,Male,47,95000,Artist,14,2,Atlanta
+57,Female,51,71000,Healthcare,9,4,Tulsa
+58,Male,69,8000,Doctor,8,2,Minneapolis
+59,Female,27,57000,Artist,1,3,Atlanta
+60,Male,53,89000,Lawyer,1,6,Omaha
+61,Male,70,84000,Artist,0,2,Dallas
+62,Male,19,50000,Artist,9,2,Las Vegas
+63,Female,67,50000,Lawyer,0,3,Boston
+64,Female,54,48000,Lawyer,1,2,Fort Worth
+65,Male,63,63000,Lawyer,7,2,Kansas City
+66,Male,18,9000,Entertainment,0,2,Colorado Springs
+67,Female,43,3000,Doctor,0,2,Oklahoma City
+68,Female,68,82000,Artist,8,4,Detroit
+69,Male,19,81000,Artist,0,4,Washington
+70,Female,32,97000,Homemaker,2,2,New Orleans
+71,Male,70,91000,Healthcare,8,2,Fresno
+72,Female,47,9000,Entertainment,8,2,Philadelphia
+73,Female,60,44000,Artist,0,5,Detroit
+74,Female,60,10000,Healthcare,8,4,San Francisco
+75,Male,59,89000,Artist,0,4,San Antonio
+76,Male,26,49000,Homemaker,0,3,Atlanta
+77,Female,45,67000,Doctor,0,2,Sacramento
+78,Male,40,99000,Artist,4,3,Louisville
+79,Female,23,97000,Engineer,2,2,Memphis
+80,Female,49,98000,,1,1,Detroit
+81,Male,57,52000,Healthcare,0,4,Nashville
+82,Male,38,61000,Healthcare,6,3,Columbus
+83,Male,67,120000,Artist,8,1,Indianapolis
+84,Female,46,34000,Entertainment,8,4,Austin
+85,Female,21,24000,Marketing,1,3,Minneapolis
+86,Male,48,31000,Healthcare,7,5,Washington
+87,Female,55,11000,Artist,0,3,Mesa
+88,Female,22,55000,Artist,5,2,Long Beach
+89,Female,34,76000,Entertainment,7,3,Boston
+90,Female,50,56000,Doctor,0,2,Long Beach
+91,Female,68,46000,Entertainment,0,3,San Diego
+92,Male,18,36000,Artist,1,4,Tulsa
+93,Male,48,88000,Artist,1,2,Dallas
+94,Female,40,31000,Entertainment,1,2,Virginia Beach
+95,Female,32,24000,Artist,0,1,Oklahoma City
+96,Male,24,80000,Artist,10,1,Indianapolis
+97,Female,47,2000,Artist,0,1,Albuquerque
+98,Female,27,67000,Artist,0,2,Indianapolis
+99,Male,48,58000,Doctor,1,2,Milwaukee
+100,Male,20,80000,Engineer,3,3,Colorado Springs
+101,Female,23,65000,Artist,0,4,Tucson
+102,Female,49,4000,Executive,1,7,Miami
+103,Male,67,98000,Artist,0,3,Fort Worth
+104,Male,26,52000,Executive,0,5,Fort Worth
+105,Male,49,86000,Healthcare,10,2,Kansas City
+106,Female,21,82000,Doctor,1,2,Tulsa
+107,Female,66,43000,Homemaker,3,2,Phoenix
+108,Male,54,78000,Lawyer,1,1,Philadelphia
+109,Male,68,13000,Healthcare,6,5,Long Beach
+110,Male,66,13000,Healthcare,9,3,Los Angeles
+111,Male,65,34000,Entertainment,4,4,Long Beach
+112,Female,19,25000,Artist,0,1,Seattle
+113,Female,38,71000,Doctor,1,5,Detroit
+114,Male,19,2000,Artist,1,1,Nashville
+115,Female,18,97000,Executive,0,3,Arlington
+116,Female,19,51000,Executive,8,4,Arlington
+117,Female,63,9000,Lawyer,1,1,Jacksonville
+118,Female,49,79000,Artist,0,2,Milwaukee
+119,Female,51,84000,,2,7,San Antonio
+120,Female,50,87000,Artist,1,2,Columbus
+121,Male,27,36000,Executive,0,3,Atlanta
+122,Female,38,50000,Executive,1,4,Indianapolis
+123,Female,40,97000,Engineer,9,4,San Francisco
+124,Male,39,6000,Healthcare,1,3,Oklahoma City
+125,Female,23,12000,Entertainment,9,2,Virginia Beach
+126,Female,31,46000,Marketing,1,2,Atlanta
+127,Male,43,89000,Engineer,0,7,Omaha
+128,Male,40,4000,Artist,0,2,Seattle
+129,Male,59,38000,Engineer,0,2,Las Vegas
+130,Male,38,64000,Entertainment,8,5,San Jose
+131,Male,47,66000,Executive,9,5,Miami
+132,Male,39,26000,Lawyer,0,2,Albuquerque
+133,Female,25,41000,Healthcare,6,4,El Paso
+134,Female,31,45000,Artist,5,1,Columbus
+135,Male,20,89000,Engineer,1,2,Oklahoma City
+136,Female,29,92000,Executive,5,5,Virginia Beach
+137,Female,44,76000,Artist,5,2,Omaha
+138,Male,32,85000,Artist,3,4,San Francisco
+139,Male,19,22000,Marketing,8,4,Sacramento
+140,Female,35,15000,Artist,4,4,Tucson
+141,Female,57,32000,Engineer,0,2,Phoenix
+142,Male,32,66000,Artist,0,5,El Paso
+143,Female,28,62000,Doctor,5,3,Charlotte
+144,Female,32,85000,Lawyer,1,2,Washington
+145,Male,25,71000,Engineer,0,5,New Orleans
+146,Male,28,26000,Marketing,8,5,Long Beach
+147,Male,48,52000,Engineer,9,2,Virginia Beach
+148,Female,32,38000,Lawyer,1,1,Oakland
+149,Female,34,51000,Healthcare,7,4,Boston
+150,Male,34,90000,Artist,6,3,Austin
+151,Male,43,30000,Lawyer,0,9,New Orleans
+152,Male,39,41000,Engineer,0,1,Dallas
+153,Female,44,17000,Engineer,0,2,Philadelphia
+154,Female,38,92000,Artist,2,2,Tulsa
+155,Female,47,80000,Healthcare,0,4,New York
+156,Female,27,10000,Marketing,8,4,Miami
+157,Male,37,16000,Executive,1,1,Los Angeles
+158,Female,30,87000,Artist,3,4,Seattle
+159,Male,34,66000,Lawyer,1,2,San Francisco
+160,Female,30,86000,Artist,3,3,Denver
+161,Female,56,9000,Artist,1,1,Virginia Beach
+162,Female,29,50000,Healthcare,1,5,Mesa
+163,Male,19,35000,Executive,0,5,New Orleans
+164,Female,31,58000,Healthcare,1,5,Milwaukee
+165,Male,50,47000,Doctor,0,2,Indianapolis
+166,Female,36,54000,Artist,5,3,Minneapolis
+167,Male,42,79000,Homemaker,9,3,Sacramento
+168,Female,33,83000,Artist,0,5,Los Angeles
+169,Female,36,57000,Artist,0,3,Albuquerque
+170,Male,32,0,Artist,2,2,Philadelphia
+171,Male,40,69000,Artist,3,5,Jacksonville
+172,Male,28,4000,Executive,0,2,San Jose
+173,Male,36,79000,Lawyer,0,2,San Jose
+174,Male,36,99000,Artist,5,2,Washington
+175,Female,52,20000,Lawyer,0,2,Denver
+176,Female,30,28000,Artist,3,4,Memphis
+177,Male,58,29000,Engineer,11,1,San Diego
+178,Male,27,45000,Healthcare,2,6,New Orleans
+179,Male,59,86000,Healthcare,4,3,Washington
+180,Male,35,42000,Engineer,8,1,Sacramento
+181,Female,37,59000,Artist,7,2,San Francisco
+182,Female,32,61000,Entertainment,7,5,Indianapolis
+183,Male,46,11000,Artist,7,1,Washington
+184,Female,29,66000,Artist,4,4,Atlanta
+185,Female,41,39000,Artist,1,1,Wichita
+186,Male,30,72000,Artist,6,2,Long Beach
+187,Female,54,14000,Lawyer,1,2,Chicago
+188,Male,28,44000,Doctor,5,3,Charlotte
+189,Female,41,76000,Engineer,8,2,Phoenix
+190,Female,36,95000,Artist,4,2,Omaha
+191,Female,34,92000,Artist,5,3,San Jose
+192,Female,32,98000,Artist,8,2,Denver
+193,Male,33,96000,Executive,9,2,Memphis
+194,Female,38,45000,Artist,10,4,Austin
+195,Female,47,8000,Artist,7,2,Tulsa
+196,Female,35,46000,Executive,1,3,Washington
+197,Female,45,78000,Artist,0,2,Miami
+198,Male,32,4000,Artist,1,5,Omaha
+199,Male,32,81000,Executive,1,2,Houston
+200,Male,30,33000,Artist,4,2,Colorado Springs
+201,Female,21,40000,Healthcare,0,3,Milwaukee
+202,Male,34,85000,Healthcare,9,3,Fresno
+203,Female,16,60000,Engineer,6,8,Boston
+204,Female,76,60000,Healthcare,4,2,Charlotte
+205,Female,62,63000,Entertainment,0,2,Dallas
+206,Female,63,10000,Healthcare,8,3,El Paso
+207,Female,19,55000,Healthcare,0,3,New York
+208,Male,46,93000,Artist,2,1,Seattle
+209,Female,48,15000,Doctor,0,2,Tulsa
+210,Female,80,39000,Engineer,9,4,San Antonio
+211,Female,1,57000,Engineer,1,2,Colorado Springs
+212,Female,0,22000,Artist,2,1,Washington
+213,Male,86,12000,Marketing,2,4,Seattle
+214,Male,49,50000,Lawyer,8,1,Las Vegas
+215,Male,48,95000,Doctor,2,4,Detroit
+216,Female,46,66000,Healthcare,3,3,Columbus
+217,Male,79,20000,Doctor,6,2,Wichita
+218,Female,83,35000,Doctor,8,2,Tulsa
+219,Female,66,71000,Executive,9,2,Los Angeles
+220,Female,59,76000,,9,1,Fresno
+221,Female,39,84000,Artist,5,3,Seattle
+222,Female,95,72000,Engineer,4,2,Fresno
+223,Male,43,33000,Artist,4,3,Baltimore
+224,Female,93,93000,Healthcare,1,5,Jacksonville
+225,Female,40,83000,Homemaker,4,1,Boston
+226,Female,78,23000,Engineer,1,1,Washington
+227,Female,25,40000,Artist,5,4,Sacramento
+228,Male,76,89000,Healthcare,9,4,Omaha
+229,Male,0,33000,Marketing,1,1,Long Beach
+230,Male,15,94000,Healthcare,7,2,San Diego
+231,Female,6,93000,Lawyer,8,2,Boston
+232,Male,84,7000,Healthcare,0,4,San Diego
+233,Female,67,18000,Lawyer,0,2,Columbus
+234,Female,78,3000,Healthcare,0,4,Omaha
+235,Female,4,84000,Artist,9,1,Washington
+236,Female,29,62000,Healthcare,0,4,Charlotte
+237,Male,91,9000,Healthcare,1,5,Los Angeles
+238,Male,95,36000,,0,4,Miami
+239,Male,55,37000,Lawyer,1,4,Indianapolis
+240,Female,14,50000,Artist,1,2,Jacksonville
+241,Male,92,83000,Executive,1,5,Boston
+242,Female,65,79000,Artist,0,3,Virginia Beach
+243,Female,84,40000,Healthcare,1,4,Albuquerque
+244,Female,77,47000,Artist,0,6,San Jose
+245,Female,53,4000,Artist,0,4,Los Angeles
+246,Female,28,38000,Entertainment,7,2,Omaha
+247,Male,23,0,Doctor,1,3,Denver
+248,Female,32,7000,Artist,1,2,Baltimore
+249,Female,37,41000,Artist,1,2,Mesa
+250,Female,89,65000,Engineer,0,5,Columbus
+251,Male,80,20000,Engineer,1,3,Fresno
+252,Female,27,44000,Doctor,8,1,Omaha
+253,Female,78,3000,Artist,5,4,Tulsa
+254,Female,86,72000,Lawyer,7,3,Long Beach
+255,Female,46,27000,Engineer,4,4,Oakland
+256,Male,59,85000,Lawyer,4,2,Nashville
+257,Male,12,38000,Executive,10,1,Louisville
+258,Male,79,73000,Homemaker,6,7,San Antonio
+259,Female,79,64000,Artist,2,3,Tulsa
+260,Male,26,26000,Executive,6,4,Kansas City
+261,Female,63,47000,Artist,2,3,San Antonio
+262,Female,52,35000,Doctor,2,6,San Jose
+263,Female,32,31000,Lawyer,2,3,Tulsa
+264,Female,64,13000,Engineer,3,4,Raleigh
+265,Female,37,79000,Homemaker,1,7,Phoenix
+266,Male,7,82000,Entertainment,2,2,Raleigh
+267,Female,40,28000,Artist,1,1,Oklahoma City
+268,Female,78,36000,Artist,0,3,Baltimore
+269,Female,34,8000,Entertainment,6,6,Oakland
+270,Female,52,88000,Artist,1,2,Philadelphia
+271,Male,94,91000,Entertainment,0,4,Dallas
+272,Female,1,12000,Doctor,0,3,San Diego
+273,Female,96,1000,Entertainment,0,3,Boston
+274,Female,18,143000,Artist,0,2,San Antonio
+275,Female,37,18000,Artist,1,2,Dallas
+276,Male,78,65000,Lawyer,1,2,El Paso
+277,Male,16,9000,Executive,7,4,Milwaukee
+278,Male,93,95000,Artist,1,1,El Paso
+279,Female,74,78000,Engineer,9,3,Atlanta
+280,Male,68,48000,Healthcare,3,3,Miami
+281,Female,32,63000,Executive,1,4,Phoenix
+282,Female,43,85000,Marketing,1,2,Tulsa
+283,Female,52,43000,Artist,1,3,Indianapolis
+284,Female,63,74000,Artist,1,2,San Francisco
+285,Female,33,67000,Healthcare,0,1,Austin
+286,Male,86,59000,Artist,0,1,Milwaukee
+287,Female,85,140000,Entertainment,1,1,Charlotte
+288,Female,73,31000,Healthcare,1,2,Nashville
+289,Female,21,5000,Marketing,0,1,Wichita
+290,Female,93,19000,Engineer,1,3,Colorado Springs
+291,Male,9,27000,Entertainment,7,1,Jacksonville
+292,Female,10,68000,Doctor,6,3,El Paso
+293,Male,11,38000,Artist,8,8,Atlanta
+294,Female,48,50000,Engineer,6,4,Dallas
+295,Female,73,80000,Entertainment,2,2,Baltimore
+296,Female,66,69000,Executive,9,3,Albuquerque
+297,Female,79,31000,Engineer,3,3,Fresno
+298,Male,62,87000,Doctor,6,2,Seattle
+299,Male,17,79000,Artist,1,3,Louisville
+300,Male,32,32000,Entertainment,5,2,Charlotte
+301,Male,85,153787,Entertainment,3,3,New York
+302,Male,31,95851,Healthcare,5,2,New York
+303,Female,31,145015,Healthcare,6,3,Austin
+304,Female,38,148539,Healthcare,5,2,Tucson
+305,Female,90,117319,Lawyer,1,2,Washington
+306,Female,65,180243,Marketing,6,2,Memphis
+307,Female,63,165052,Artist,4,2,Memphis
+308,Female,61,120487,Doctor,0,2,Atlanta
+309,Male,26,112766,Engineer,8,4,San Jose
+310,Female,17,156488,Engineer,1,4,New Orleans
+311,Male,56,97562,Executive,5,6,Portland
+312,Female,12,77501,Engineer,5,4,Austin
+313,Female,24,118302,Lawyer,5,1,Los Angeles
+314,Female,13,64277,Executive,9,4,Washington
+315,Male,12,53927,Doctor,2,3,Boston
+316,Male,72,93921,Lawyer,9,2,Philadelphia
+317,Female,54,132046,Homemaker,4,4,Kansas City
+318,Male,45,183217,Artist,7,2,Tucson
+319,Male,66,182937,Marketing,8,1,Las Vegas
+320,Female,27,68272,Healthcare,8,4,Albuquerque
+321,Male,36,69841,Engineer,10,2,El Paso
+322,Male,5,69078,Lawyer,13,1,Seattle
+323,Female,89,110667,Healthcare,2,4,Boston
+324,Male,13,95469,Doctor,6,1,Kansas City
+325,Female,91,102861,Artist,4,1,Los Angeles
+326,Male,16,133551,Artist,3,1,Milwaukee
+327,Female,63,64589,Engineer,7,1,Fort Worth
+328,Male,52,152755,Engineer,4,2,Memphis
+329,Female,37,92313,Healthcare,1,5,Minneapolis
+330,Female,78,98922,Artist,2,3,Austin
+331,Male,24,165846,Engineer,0,4,New York
+332,Female,4,93713,Engineer,3,4,Fresno
+333,Male,84,137641,Healthcare,0,5,Charlotte
+334,Male,0,173743,Artist,0,4,Jacksonville
+335,Female,67,116126,Entertainment,10,2,New Orleans
+336,Female,32,112246,Healthcare,8,3,Charlotte
+337,Female,39,69384,Healthcare,1,5,Austin
+338,Female,68,76529,Healthcare,0,2,Denver
+339,Female,7,123804,Doctor,14,1,Jacksonville
+340,Female,76,68292,Artist,8,2,Albuquerque
+341,Female,84,173185,Artist,3,1,Philadelphia
+342,Male,75,142034,Entertainment,1,4,Virginia Beach
+343,Male,22,107941,Artist,0,1,San Jose
+344,Female,90,149840,Engineer,1,1,Miami
+345,Female,4,148431,Healthcare,1,8,Fort Worth
+346,Female,78,126599,Lawyer,0,3,Miami
+347,Female,58,57180,Healthcare,9,1,Washington
+348,Female,99,184426,Artist,9,1,Dallas
+349,Female,24,151085,Marketing,2,5,Charlotte
+350,Female,88,166107,Artist,13,4,Arlington
+351,Female,92,67850,Artist,9,4,Tulsa
+352,Male,99,173394,Engineer,13,1,Dallas
+353,Female,51,72303,Lawyer,7,1,Dallas
+354,Male,23,181760,Healthcare,14,3,Seattle
+355,Female,13,146858,Doctor,9,1,Las Vegas
+356,Male,22,172923,Engineer,6,1,San Diego
+357,Female,89,115811,Homemaker,11,4,Colorado Springs
+358,Male,20,184324,Marketing,13,5,Arlington
+359,Female,72,67353,Lawyer,9,3,New Orleans
+360,Male,17,165999,Healthcare,9,3,San Antonio
+361,Male,90,164914,Artist,8,3,Milwaukee
+362,Male,99,63364,Entertainment,1,2,San Diego
+363,Female,39,182352,Engineer,4,3,Kansas City
+364,Female,37,148544,Entertainment,1,2,Jacksonville
+365,Male,46,62833,Artist,1,2,Wichita
+366,Male,65,120627,Healthcare,0,2,Boston
+367,Female,60,130898,Artist,1,1,Columbus
+368,Female,93,103130,Executive,12,3,Fort Worth
+369,Male,72,106681,Healthcare,9,5,Phoenix
+370,Female,36,87353,Entertainment,1,5,Wichita
+371,Male,52,88046,Artist,8,1,San Diego
+372,Female,72,98168,Entertainment,1,2,Las Vegas
+373,Female,28,178265,Lawyer,2,1,Miami
+374,Female,48,167232,Doctor,6,4,Las Vegas
+375,Male,85,140478,Doctor,6,4,Dallas
+376,Male,22,159296,Artist,8,1,Miami
+377,Female,30,144043,Doctor,1,1,Washington
+378,Male,46,72594,Artist,1,2,Sacramento
+379,Female,82,180288,Artist,2,2,San Diego
+380,Female,73,165734,Entertainment,0,1,Houston
+381,Male,8,175407,Artist,5,1,Miami
+382,Male,90,70201,Engineer,0,2,Seattle
+383,Male,34,91503,Artist,0,6,Colorado Springs
+384,Female,10,184522,Artist,0,2,Long Beach
+385,Female,79,143560,Artist,1,3,Minneapolis
+386,Male,83,131574,Artist,1,2,Fort Worth
+387,Female,20,151124,Artist,15,3,Fresno
+388,Female,25,67447,Artist,15,2,Omaha
+389,Female,26,117454,Healthcare,16,2,Detroit
+390,Female,18,86203,Doctor,13,1,Mesa
+391,Female,7,136231,Artist,7,1,Milwaukee
+392,Male,1,89144,Doctor,12,2,Miami
+393,Male,21,119116,Artist,17,4,San Antonio
+394,Female,86,163463,Artist,9,4,Denver
+395,Female,75,151696,Artist,15,1,Oklahoma City
+396,Male,78,184736,Lawyer,13,1,Kansas City
+397,Female,87,70419,Homemaker,6,4,Tulsa
+398,Female,8,119104,Entertainment,14,3,Dallas
+399,Male,59,130950,Executive,5,3,Virginia Beach
+400,Male,13,140950,Artist,15,2,Seattle
+401,Female,55,82285,Engineer,16,1,Fort Worth
+402,Female,50,91389,Healthcare,11,7,Fresno
+403,Male,54,186359,Doctor,13,2,Dallas
+404,Male,13,178989,Doctor,14,3,San Jose
+405,Male,79,166335,Engineer,5,5,Tucson
+406,Female,65,119889,Artist,17,6,Austin
+407,Female,51,66852,Executive,15,3,Washington
+408,Male,18,103896,Executive,16,4,Boston
+409,Male,21,187761,Healthcare,2,3,Omaha
+410,Male,37,102717,Healthcare,7,4,San Diego
+411,Male,83,102647,Entertainment,0,2,Houston
+412,Female,96,113585,Lawyer,0,4,Oakland
+413,Female,65,86509,Artist,0,4,Omaha
+414,Male,80,59099,Marketing,1,7,Charlotte
+415,Female,75,135088,Lawyer,1,5,Boston
+416,Female,87,110870,Engineer,1,4,San Francisco
+417,Female,86,187667,Artist,0,1,Philadelphia
+418,Female,36,124614,Artist,8,5,El Paso
+419,Female,78,166492,Homemaker,9,7,Virginia Beach
+420,Female,62,172758,Entertainment,1,2,Albuquerque
+421,Male,89,122430,Healthcare,1,1,Indianapolis
+422,Female,56,183540,Entertainment,0,6,San Antonio
+423,Female,35,96484,Artist,5,4,Memphis
+424,Male,33,112587,Artist,1,4,Minneapolis
+425,Female,58,155672,Entertainment,7,7,Tucson
+426,Female,68,72847,Artist,1,2,Mesa
+427,Male,38,71897,Entertainment,2,3,Atlanta
+428,Male,31,158479,Doctor,1,5,Sacramento
+429,Male,90,89251,Entertainment,1,1,Raleigh
+430,Male,28,179911,Engineer,1,1,Mesa
+431,Male,1,111558,Healthcare,7,4,Portland
+432,Male,78,127615,Executive,10,7,Denver
+433,Female,23,50076,Artist,3,5,Detroit
+434,Female,25,77779,Artist,4,1,Portland
+435,Male,59,169999,Engineer,5,5,Omaha
+436,Female,7,106581,Doctor,1,7,Columbus
+437,Female,24,78223,Lawyer,0,1,Albuquerque
+438,Male,76,136259,,0,7,Memphis
+439,Male,37,153399,Entertainment,1,6,Oakland
+440,Female,6,162858,Artist,0,1,Phoenix
+441,Female,0,57373,,0,7,Austin
+442,Male,3,133602,Artist,1,1,Miami
+443,Female,95,66322,Artist,0,3,Miami
+444,Female,0,68761,Lawyer,1,4,Denver
+445,Male,7,70749,Artist,13,3,Dallas
+446,Male,54,65874,Artist,7,6,Houston
+447,Male,89,115996,Engineer,15,1,Portland
+448,Female,58,67097,Engineer,6,1,Fresno
+449,Female,12,108027,Artist,13,5,Fort Worth
+450,Male,7,176349,Healthcare,8,2,San Jose
+451,Male,11,88452,Healthcare,8,6,Colorado Springs
+452,Male,74,128266,Engineer,7,4,Seattle
+453,Female,64,156777,Healthcare,7,2,Nashville
+454,Female,48,123234,Lawyer,10,7,Virginia Beach
+455,Female,8,60790,Artist,1,5,Baltimore
+456,Female,15,181332,Artist,14,6,Mesa
+457,Male,1,187297,Artist,0,1,Baltimore
+458,Female,21,153885,Artist,6,6,Jacksonville
+459,Male,84,53500,Marketing,3,4,San Diego
+460,Female,5,69443,Doctor,4,6,Charlotte
+461,Female,47,124072,Lawyer,0,7,Houston
+462,Female,96,135800,Healthcare,0,7,Sacramento
+463,Male,93,120597,Artist,2,4,Oakland
+464,Female,16,91358,Entertainment,1,4,Mesa
+465,Male,56,53231,Marketing,0,5,Nashville
+466,Female,76,156330,Engineer,1,2,Mesa
+467,Male,0,186002,Doctor,15,2,San Diego
+468,Female,70,111760,Executive,12,5,Raleigh
+469,Female,47,143906,Artist,4,3,Charlotte
+470,Male,13,182410,Healthcare,11,4,Wichita
+471,Male,86,98463,Homemaker,10,5,Los Angeles
+472,Male,91,93762,Artist,15,7,Charlotte
+473,Male,97,104582,Healthcare,8,2,Virginia Beach
+474,Male,20,130813,Artist,17,5,New York
+475,Female,11,59202,Healthcare,5,4,New York
+476,Female,28,79968,Lawyer,9,2,Columbus
+477,Male,32,104824,Artist,0,7,Milwaukee
+478,Male,82,188719,Lawyer,0,6,San Francisco
+479,Male,39,187536,Healthcare,3,6,Fresno
+480,Male,7,134008,Entertainment,2,1,Philadelphia
+481,Female,13,176397,Artist,6,3,Oakland
+482,Female,34,154888,Healthcare,9,6,Detroit
+483,Male,76,155622,Healthcare,0,2,Fort Worth
+484,Female,30,62330,Healthcare,1,1,Miami
+485,Female,69,112838,Healthcare,1,7,San Francisco
+486,Male,22,58283,Homemaker,2,4,Tulsa
+487,Female,60,77857,Artist,1,6,New York
+488,Male,66,125024,Artist,0,1,Mesa
+489,Female,57,136242,Artist,9,1,Minneapolis
+490,Female,60,81934,Healthcare,1,4,Colorado Springs
+491,Female,59,130511,Artist,3,4,San Antonio
+492,Female,54,144502,Lawyer,3,1,Phoenix
+493,Male,90,63769,Artist,4,2,Dallas
+494,Female,14,66760,Artist,0,4,Arlington
+495,Female,34,135115,Entertainment,1,7,Tulsa
+496,Female,85,179877,Healthcare,12,4,Denver
+497,Female,83,93351,Doctor,1,1,Detroit
+498,Male,12,84547,Homemaker,3,3,Memphis
+499,Male,95,121725,,12,3,Raleigh
+500,Male,41,65723,Artist,6,7,Arlington
+501,Female,38,96794,Healthcare,6,3,Seattle
+502,Male,68,72352,Healthcare,8,5,Colorado Springs
+503,Female,4,53097,Healthcare,0,7,Las Vegas
+504,Female,5,144831,Artist,1,3,Fort Worth
+505,Female,3,183851,Doctor,1,2,Louisville
+506,Female,20,111896,Executive,1,3,Columbus
+507,Female,3,64824,Executive,1,1,Detroit
+508,Male,36,88565,Healthcare,1,5,Atlanta
+509,Female,70,104974,Artist,1,1,San Francisco
+510,Female,17,167060,Artist,1,5,Philadelphia
+511,Female,31,69018,Artist,6,1,Tucson
+512,Female,48,174109,Entertainment,0,1,Fresno
+513,Male,28,62186,Marketing,0,1,Colorado Springs
+514,Male,97,183783,Healthcare,9,3,New Orleans
+515,Male,81,83771,Artist,1,2,Tucson
+516,Female,37,148196,Artist,0,2,Oakland
+517,Male,85,131742,Entertainment,1,1,Louisville
+518,Female,78,59971,Homemaker,14,7,Omaha
+519,Female,13,88960,Entertainment,13,3,Charlotte
+520,Female,53,140107,Healthcare,1,5,Albuquerque
+521,Female,41,161896,Entertainment,1,3,New York
+522,Female,9,57272,Engineer,1,1,Nashville
+523,Male,20,119952,Healthcare,8,2,Raleigh
+524,Female,98,167197,Doctor,1,5,Minneapolis
+525,Female,44,186116,Healthcare,8,6,Houston
+526,Female,66,134677,Healthcare,15,5,Los Angeles
+527,Female,58,180479,Healthcare,0,3,Kansas City
+528,Male,97,112783,Artist,9,6,Milwaukee
+529,Male,13,150258,Doctor,0,3,Raleigh
+530,Male,48,115832,Artist,2,2,Minneapolis
+531,Female,47,104834,Artist,0,7,Denver
+532,Male,93,152571,Doctor,14,5,Indianapolis
+533,Female,11,162287,Engineer,3,2,Austin
+534,Female,68,171761,Doctor,1,6,Oakland
+535,Female,87,77709,Artist,0,1,Milwaukee
+536,Female,22,95053,Entertainment,1,2,Boston
+537,Male,89,74820,Doctor,1,2,Phoenix
+538,Male,57,152267,Engineer,9,5,Atlanta
+539,Male,91,71925,Artist,4,2,El Paso
+540,Female,84,151340,Artist,1,7,Detroit
+541,Male,56,162921,Executive,0,4,Las Vegas
+542,Female,26,52234,Executive,1,2,Colorado Springs
+543,Female,56,100271,Artist,1,5,Kansas City
+544,Female,6,170266,Artist,3,2,Fort Worth
+545,Female,33,88763,Entertainment,1,1,Raleigh
+546,Female,89,107359,,10,6,Tulsa
+547,Male,99,164781,Engineer,0,2,Washington
+548,Female,25,156016,Artist,2,1,Detroit
+549,Female,96,186882,Entertainment,1,7,Arlington
+550,Female,35,99300,Homemaker,5,2,San Antonio
+551,Male,16,58127,Marketing,0,3,Philadelphia
+552,Female,81,89211,Doctor,1,7,San Antonio
+553,Female,7,148607,Homemaker,1,7,New Orleans
+554,Female,31,139592,Marketing,1,1,Albuquerque
+555,Female,16,172051,Healthcare,1,3,Fresno
+556,Male,89,57033,Artist,0,4,Omaha
+557,Male,84,117612,Engineer,0,6,Memphis
+558,Male,40,185321,Artist,0,7,Columbus
+559,Female,17,186577,Healthcare,8,5,Phoenix
+560,Male,0,151298,Artist,0,6,Minneapolis
+561,Female,69,123925,Artist,1,7,Mesa
+562,Female,17,169496,Lawyer,11,6,Los Angeles
+563,Female,0,142892,Entertainment,8,1,Columbus
+564,Female,34,58979,Entertainment,9,5,Milwaukee
+565,Female,51,141416,Healthcare,15,1,Los Angeles
+566,Male,54,104854,Healthcare,1,7,Denver
+567,Female,19,180331,Artist,17,5,San Jose
+568,Female,99,172896,Engineer,0,3,El Paso
+569,Female,2,101451,Healthcare,4,3,Tucson
+570,Female,91,189974,Engineer,8,1,Charlotte
+571,Male,65,90084,Artist,1,6,El Paso
+572,Female,47,112247,Executive,4,5,Colorado Springs
+573,Female,91,181775,Artist,4,5,Milwaukee
+574,Female,64,59088,Artist,1,3,Arlington
+575,Female,91,60856,Artist,1,6,Boston
+576,Male,32,149900,Artist,6,3,Fresno
+577,Male,15,142776,Engineer,8,5,Houston
+578,Male,22,162598,Artist,8,3,San Diego
+579,Female,37,146195,Healthcare,4,4,Charlotte
+580,Male,83,135268,Lawyer,4,5,Houston
+581,Female,89,136037,Marketing,5,1,Virginia Beach
+582,Female,33,111191,Artist,9,4,Boston
+583,Female,13,144111,Entertainment,12,5,Washington
+584,Female,71,177359,Doctor,6,2,Denver
+585,Female,10,112818,Marketing,15,7,Oakland
+586,Male,49,53509,Artist,5,4,Fresno
+587,Female,9,168269,Executive,10,2,Baltimore
+588,Female,53,86766,Lawyer,16,3,Louisville
+589,Female,63,52661,Healthcare,12,5,Fresno
+590,Female,46,148520,Healthcare,11,5,Wichita
+591,Male,42,149936,Artist,15,3,Kansas City
+592,Female,73,102296,Entertainment,7,5,Memphis
+593,Male,75,178416,Executive,10,7,Washington
+594,Female,49,83788,Doctor,15,1,Charlotte
+595,Female,96,184771,Engineer,8,5,Tulsa
+596,Female,52,70302,Executive,14,3,Charlotte
+597,Female,15,58639,Entertainment,5,7,Omaha
+598,Male,91,97879,Entertainment,15,7,Chicago
+599,Male,22,64707,Entertainment,7,3,Austin
+600,Male,62,71795,Healthcare,8,1,Kansas City
+601,Male,41,76567,Doctor,16,1,Tulsa
+602,Male,61,126370,,11,4,Houston
+603,Female,71,154007,Artist,7,7,Fresno
+604,Female,91,69720,Lawyer,17,6,Louisville
+605,Female,94,85265,Executive,7,6,Kansas City
+606,Female,3,155864,Healthcare,13,3,New York
+607,Female,15,99421,Artist,8,7,Kansas City
+608,Female,96,145457,Executive,2,1,Minneapolis
+609,Male,12,118041,Artist,9,2,Nashville
+610,Female,23,73759,Doctor,0,7,El Paso
+611,Male,94,90082,Artist,5,7,Austin
+612,Female,7,74928,Artist,0,6,Raleigh
+613,Female,74,101352,Lawyer,0,5,Milwaukee
+614,Female,52,93947,Healthcare,9,2,Oakland
+615,Male,39,134629,Engineer,1,6,Houston
+616,Male,72,101858,Healthcare,8,6,Long Beach
+617,Female,55,165501,Artist,10,4,Chicago
+618,Male,29,135931,Lawyer,5,1,San Diego
+619,Male,38,103356,Marketing,1,6,Seattle
+620,Female,44,75195,Artist,1,3,Tucson
+621,Male,58,123083,Entertainment,6,5,Minneapolis
+622,Male,77,73884,Healthcare,1,2,Detroit
+623,Female,56,91180,Entertainment,1,7,New Orleans
+624,Male,79,86235,Artist,0,2,Washington
+625,Female,97,96400,Doctor,1,7,Dallas
+626,Male,78,83599,Healthcare,1,6,Mesa
+627,Female,91,82535,Healthcare,0,1,Columbus
+628,Male,35,92227,Lawyer,0,5,San Antonio
+629,Female,43,150444,Artist,13,4,Virginia Beach
+630,Female,37,149095,Lawyer,1,2,Oklahoma City
+631,Male,63,113605,Artist,3,3,Phoenix
+632,Female,16,93854,Healthcare,0,7,San Francisco
+633,Male,32,118280,Artist,0,5,Chicago
+634,Male,91,94576,Artist,0,1,Fresno
+635,Female,33,129257,Executive,6,3,El Paso
+636,Female,57,70373,Healthcare,2,6,Seattle
+637,Female,43,77600,Healthcare,0,1,New York
+638,Female,26,113707,Entertainment,0,5,Colorado Springs
+639,Female,59,189672,Doctor,0,7,Boston
+640,Female,61,143180,Artist,0,5,San Antonio
+641,Female,59,174890,Marketing,3,4,Columbus
+642,Male,66,121377,,7,7,Las Vegas
+643,Male,26,154857,Healthcare,0,7,San Francisco
+644,Female,67,160945,Healthcare,0,5,Omaha
+645,Female,85,119557,Artist,0,2,Sacramento
+646,Female,76,187141,Doctor,0,7,New York
+647,Female,57,97468,Artist,0,1,Indianapolis
+648,Female,77,160351,Lawyer,8,5,Las Vegas
+649,Female,66,178627,Healthcare,1,2,Baltimore
+650,Female,49,170188,Lawyer,1,6,Jacksonville
+651,Female,36,166007,Doctor,1,4,Miami
+652,Male,74,91794,Entertainment,0,7,Portland
+653,Female,16,189072,Artist,6,3,Denver
+654,Male,27,152717,Executive,1,6,Fresno
+655,Female,3,158549,Executive,0,3,Charlotte
+656,Male,31,134263,Marketing,1,3,San Francisco
+657,Female,30,148236,Executive,1,1,San Antonio
+658,Male,94,171677,Artist,0,6,Memphis
+659,Female,31,189446,Artist,1,6,Los Angeles
+660,Male,49,106633,Artist,0,3,Tucson
+661,Male,49,81084,Executive,6,5,San Jose
+662,Male,53,148759,Doctor,7,7,Miami
+663,Female,3,117638,Healthcare,2,7,Albuquerque
+664,Female,91,159537,Doctor,4,1,Raleigh
+665,Male,26,79526,Marketing,9,7,San Antonio
+666,Male,28,101414,,8,1,Virginia Beach
+667,Female,92,109519,Entertainment,1,4,Portland
+668,Female,59,156880,Artist,0,7,Nashville
+669,Male,15,157278,Artist,0,6,Atlanta
+670,Female,23,144916,Engineer,1,7,Los Angeles
+671,Male,54,59163,Marketing,3,3,Washington
+672,Female,93,93991,Artist,1,3,Louisville
+673,Female,65,58318,Doctor,1,1,Atlanta
+674,Female,13,180786,Lawyer,1,5,Long Beach
+675,Male,71,84622,Doctor,0,6,New Orleans
+676,Male,1,92674,Artist,8,4,Colorado Springs
+677,Female,57,87553,Artist,1,1,Arlington
+678,Male,14,74174,Entertainment,1,2,Tulsa
+679,Female,77,180831,Healthcare,1,2,Arlington
+680,Female,89,137397,Doctor,1,7,Arlington
+681,Male,17,96154,Artist,1,4,Albuquerque
+682,Male,86,172477,Entertainment,1,3,San Antonio
+683,Male,42,59954,Executive,4,4,Milwaukee
+684,Female,29,112240,Entertainment,0,4,Denver
+685,Female,54,145679,Artist,0,2,Portland
+686,Male,96,136265,Artist,12,5,Nashville
+687,Female,58,74869,Healthcare,0,3,Seattle
+688,Female,52,109425,Engineer,0,1,San Antonio
+689,Female,3,126015,Healthcare,0,1,San Diego
+690,Female,13,156951,Healthcare,4,7,New Orleans
+691,Female,3,127172,Healthcare,1,2,New York
+692,Male,89,113834,Doctor,0,3,Memphis
+693,Male,83,132005,Entertainment,0,5,Philadelphia
+694,Female,80,171323,Lawyer,10,4,Phoenix
+695,Female,74,92355,Entertainment,1,4,New York
+696,Male,42,60982,Healthcare,0,5,Arlington
+697,Female,91,51742,Artist,8,3,Austin
+698,Female,31,138612,Executive,9,2,Louisville
+699,Male,8,158123,Artist,1,1,Virginia Beach
+700,Male,64,164675,Executive,0,5,Memphis
+701,Female,41,172882,Healthcare,8,7,Kansas City
+702,Female,62,70119,Artist,0,1,Oklahoma City
+703,Male,41,113998,Healthcare,7,7,Charlotte
+704,Male,22,114011,,5,7,Albuquerque
+705,Male,5,57265,Entertainment,7,7,Austin
+706,Female,38,130597,Artist,6,1,Nashville
+707,Female,88,121597,Engineer,0,5,Houston
+708,Male,56,103210,Artist,6,6,Indianapolis
+709,Male,47,66308,Executive,0,4,Wichita
+710,Male,4,141336,Homemaker,2,1,San Francisco
+711,Male,82,153632,Entertainment,9,7,Tulsa
+712,Female,31,65520,Lawyer,1,2,Arlington
+713,Female,69,153217,Healthcare,1,6,Kansas City
+714,Male,62,92768,Doctor,1,1,Portland
+715,Female,54,132345,Artist,0,2,El Paso
+716,Female,60,186069,Marketing,1,2,San Antonio
+717,Female,31,53802,Artist,1,7,Milwaukee
+718,Female,17,103739,Healthcare,6,4,Miami
+719,Female,15,50550,Healthcare,9,7,El Paso
+720,Female,37,145648,Healthcare,7,6,Los Angeles
+721,Male,36,85737,Executive,0,3,Indianapolis
+722,Female,27,99950,Entertainment,0,4,San Francisco
+723,Female,11,83220,Engineer,7,4,New Orleans
+724,Male,83,73410,Entertainment,8,5,Portland
+725,Female,71,64310,Marketing,2,1,Nashville
+726,Female,20,59844,Doctor,0,1,Tulsa
+727,Male,3,67787,Executive,1,6,Atlanta
+728,Male,52,172841,Engineer,0,1,Phoenix
+729,Male,75,145528,Healthcare,1,2,Atlanta
+730,Male,36,173807,Artist,0,2,Omaha
+731,Male,60,185794,Entertainment,7,1,Dallas
+732,Male,8,119780,Healthcare,1,3,Atlanta
+733,Female,9,158596,Artist,1,2,Houston
+734,Female,41,118122,Entertainment,0,6,Boston
+735,Male,38,99964,Healthcare,7,4,Boston
+736,Female,69,120752,Executive,1,6,Indianapolis
+737,Female,33,189630,Executive,5,5,Columbus
+738,Male,64,125510,Healthcare,3,3,Sacramento
+739,Male,19,101799,Engineer,1,1,Albuquerque
+740,Female,88,92914,Artist,0,3,Seattle
+741,Female,91,162465,Engineer,9,3,El Paso
+742,Male,84,163818,Engineer,2,1,Detroit
+743,Female,43,53832,Entertainment,4,1,Oakland
+744,Female,30,140190,Engineer,1,4,New York
+745,Male,16,125836,Healthcare,1,4,Long Beach
+746,Male,89,100938,Entertainment,0,7,Louisville
+747,Male,5,168670,Artist,1,3,Dallas
+748,Female,54,176885,Entertainment,0,3,Detroit
+749,Female,41,111174,Artist,4,5,Indianapolis
+750,Male,80,127335,Artist,6,6,New Orleans
+751,Male,37,149103,Healthcare,10,1,Colorado Springs
+752,Male,87,167705,Healthcare,0,7,Charlotte
+753,Female,50,183548,Entertainment,1,4,Albuquerque
+754,Female,14,50396,Lawyer,0,6,Fresno
+755,Female,17,63557,Marketing,1,1,Oakland
+756,Female,98,87878,Artist,1,6,Seattle
+757,Male,3,55634,Engineer,8,3,Long Beach
+758,Female,83,118110,Engineer,1,5,Washington
+759,Male,13,129396,Artist,6,6,San Diego
+760,Female,46,62628,Entertainment,8,6,Mesa
+761,Female,25,51700,Healthcare,4,6,San Diego
+762,Female,4,106816,Artist,7,5,Jacksonville
+763,Male,64,93000,Lawyer,0,2,Charlotte
+764,Female,84,144148,Doctor,1,4,Omaha
+765,Male,12,101388,Artist,0,2,Tulsa
+766,Female,56,171560,Engineer,0,2,Fresno
+767,Male,58,156366,Entertainment,8,1,Colorado Springs
+768,Female,0,143910,Marketing,1,7,San Diego
+769,Female,25,106569,Engineer,1,3,Albuquerque
+770,Male,28,173009,Healthcare,9,6,Phoenix
+771,Male,78,54252,Engineer,0,5,Denver
+772,Male,56,104600,Entertainment,6,3,Tucson
+773,Male,91,50250,Artist,0,2,San Jose
+774,Male,77,93242,Entertainment,0,7,Denver
+775,Female,83,156839,Artist,3,7,New York
+776,Female,64,71305,Artist,9,2,Omaha
+777,Male,19,85975,Entertainment,0,6,Virginia Beach
+778,Male,94,188107,Engineer,10,2,Seattle
+779,Male,19,82333,Marketing,1,2,Memphis
+780,Male,84,125016,Entertainment,1,7,Boston
+781,Female,10,148908,Healthcare,2,3,Phoenix
+782,Female,19,58217,Artist,0,1,Atlanta
+783,Male,74,76521,Engineer,7,4,Austin
+784,Female,95,117763,Artist,1,2,Nashville
+785,Female,34,115184,Homemaker,1,4,New York
+786,Male,30,54251,Artist,2,6,Memphis
+787,Female,53,112530,Entertainment,2,6,Mesa
+788,Male,67,107409,Artist,1,6,Columbus
+789,Female,23,84793,Homemaker,9,6,Fort Worth
+790,Female,25,66952,Entertainment,1,2,Jacksonville
+791,Female,84,153465,Lawyer,1,4,Boston
+792,Female,1,178214,Artist,1,7,Washington
+793,Male,70,152069,Entertainment,4,4,Portland
+794,Female,56,132860,Healthcare,7,2,Columbus
+795,Female,0,147719,Lawyer,1,7,Omaha
+796,Female,91,172915,Doctor,9,1,San Jose
+797,Female,81,148594,Entertainment,3,5,Houston
+798,Male,33,61986,Executive,0,1,Arlington
+799,Male,75,91456,Artist,1,4,New Orleans
+800,Male,11,166247,Executive,1,2,Detroit
+801,Female,61,140516,Artist,0,3,Long Beach
+802,Male,81,148208,,5,7,Sacramento
+803,Female,62,133822,Marketing,0,4,Long Beach
+804,Female,44,175424,Artist,4,5,San Antonio
+805,Female,67,121528,Healthcare,8,4,Miami
+806,Female,30,189369,Healthcare,0,3,Omaha
+807,Female,92,80808,Artist,1,1,Milwaukee
+808,Male,25,57535,Entertainment,1,7,New York
+809,Female,61,163509,Healthcare,0,4,El Paso
+810,Female,72,75884,Executive,0,7,Milwaukee
+811,Female,89,157759,Artist,1,6,Chicago
+812,Female,37,184813,Executive,0,2,Charlotte
+813,Male,59,187253,Executive,8,7,Atlanta
+814,Male,41,81718,Entertainment,1,3,Milwaukee
+815,Male,60,150019,Doctor,1,2,Mesa
+816,Female,81,53452,Entertainment,1,6,Detroit
+817,Male,85,150765,Homemaker,8,2,Oakland
+818,Female,91,154456,,0,7,New Orleans
+819,Female,65,56647,Doctor,6,4,Jacksonville
+820,Female,19,117477,Healthcare,6,7,Colorado Springs
+821,Female,78,79677,Artist,10,7,Louisville
+822,Female,0,116759,Marketing,7,3,Atlanta
+823,Male,26,180702,Entertainment,6,1,Jacksonville
+824,Female,2,122698,Entertainment,8,1,Virginia Beach
+825,Female,60,169346,Healthcare,7,2,Baltimore
+826,Female,67,93176,Artist,4,1,Philadelphia
+827,Female,4,75853,Homemaker,4,5,Albuquerque
+828,Male,7,119362,Engineer,8,1,Boston
+829,Male,28,81545,Artist,4,7,Detroit
+830,Male,67,67372,Artist,0,7,Miami
+831,Female,30,109703,Executive,1,1,Miami
+832,Male,38,166697,Marketing,13,4,Sacramento
+833,Female,40,124982,Engineer,1,7,Denver
+834,Female,6,146776,Lawyer,1,7,Arlington
+835,Female,3,147548,Executive,4,5,San Diego
+836,Female,51,117620,Healthcare,7,6,Memphis
+837,Male,63,85351,Healthcare,0,2,New York
+838,Male,65,174432,Artist,0,7,Los Angeles
+839,Male,44,70787,Doctor,1,3,Tulsa
+840,Female,90,75473,Healthcare,0,7,El Paso
+841,Male,76,90082,Healthcare,1,6,Raleigh
+842,Female,62,185388,Healthcare,0,2,Omaha
+843,Female,5,168110,Doctor,14,6,Atlanta
+844,Female,67,184628,Artist,12,2,Fresno
+845,Female,38,176551,Healthcare,8,1,Dallas
+846,Female,31,76422,Healthcare,9,7,Fort Worth
+847,Male,2,164248,Entertainment,9,3,Miami
+848,Female,82,109188,Lawyer,5,7,San Jose
+849,Female,66,132951,Healthcare,4,1,Las Vegas
+850,Female,75,164598,Healthcare,8,1,San Diego
+851,Male,69,186655,,7,2,Columbus
+852,Female,62,111859,Healthcare,6,1,Chicago
+853,Female,0,121926,Lawyer,7,1,Omaha
+854,Female,11,143047,Executive,1,3,Portland
+855,Female,22,131748,Artist,1,3,San Diego
+856,Male,76,142801,Lawyer,0,1,Fort Worth
+857,Male,85,142723,Engineer,0,6,Phoenix
+858,Male,21,155151,Marketing,14,3,Kansas City
+859,Female,64,153607,Healthcare,1,4,Sacramento
+860,Male,94,144192,Healthcare,0,3,Albuquerque
+861,Female,83,174159,Lawyer,4,4,New Orleans
+862,Female,93,73642,Marketing,0,3,Atlanta
+863,Female,12,170319,Artist,8,7,Tulsa
+864,Female,0,141351,Engineer,0,2,Dallas
+865,Female,79,167411,Marketing,12,5,Baltimore
+866,Male,90,58289,Artist,5,6,Louisville
+867,Female,45,79801,Doctor,0,2,Boston
+868,Female,82,146118,Marketing,8,7,Charlotte
+869,Female,57,57337,Healthcare,1,4,El Paso
+870,Female,43,113575,Entertainment,1,2,New Orleans
+871,Male,63,122658,Engineer,6,2,Oakland
+872,Female,62,151836,Artist,0,6,Fort Worth
+873,Female,43,185900,Homemaker,9,4,Dallas
+874,Female,34,94029,Healthcare,1,4,San Jose
+875,Female,30,157290,Artist,2,2,Oklahoma City
+876,Male,97,175996,Entertainment,10,4,El Paso
+877,Male,68,102016,Artist,0,4,Oakland
+878,Male,16,77902,Artist,1,2,Philadelphia
+879,Female,15,81138,Healthcare,9,7,Albuquerque
+880,Male,25,128258,Executive,0,2,Las Vegas
+881,Female,29,62475,Artist,6,4,Sacramento
+882,Female,85,82854,Artist,6,4,Omaha
+883,Female,30,59284,Doctor,7,7,Detroit
+884,Female,13,141580,Healthcare,0,4,Omaha
+885,Female,88,171362,Executive,6,4,Long Beach
+886,Male,5,78274,Artist,9,2,Raleigh
+887,Female,95,76646,Artist,0,1,Oklahoma City
+888,Female,92,78308,Executive,5,2,El Paso
+889,Female,63,78971,Engineer,1,2,Wichita
+890,Female,75,65528,Marketing,1,5,Las Vegas
+891,Male,67,94199,Artist,5,7,Milwaukee
+892,Female,58,135705,Engineer,8,7,San Francisco
+893,Male,52,130573,Entertainment,8,3,Jacksonville
+894,Female,85,152303,Artist,1,5,Memphis
+895,Female,31,144582,Doctor,1,1,Oakland
+896,Female,84,93288,Artist,10,6,Long Beach
+897,Female,93,88192,Marketing,10,2,Indianapolis
+898,Male,18,62362,Lawyer,7,3,Washington
+899,Male,73,74350,Lawyer,10,1,Philadelphia
+900,Male,3,144103,Healthcare,8,7,Fort Worth
+901,Male,1,75518,Lawyer,7,3,Denver
+902,Male,53,160980,Doctor,4,2,Minneapolis
+903,Female,75,102904,Artist,7,6,Dallas
+904,Female,15,174501,,9,7,Austin
+905,Female,47,157661,Healthcare,6,6,Raleigh
+906,Female,66,118385,Healthcare,10,3,Fort Worth
+907,Female,17,116463,Artist,8,4,Denver
+908,Female,1,161212,Artist,9,6,Memphis
+909,Male,16,172601,Marketing,4,6,Phoenix
+910,Female,52,167214,Homemaker,8,7,San Francisco
+911,Male,21,69644,Artist,5,1,Raleigh
+912,Female,19,120215,Homemaker,7,2,New Orleans
+913,Female,29,180401,Engineer,7,6,Seattle
+914,Female,40,113739,Artist,5,7,San Francisco
+915,Male,76,111717,Healthcare,1,2,Detroit
+916,Male,91,62808,Engineer,0,4,Jacksonville
+917,Female,24,67582,Artist,1,3,Seattle
+918,Male,4,96543,Artist,9,1,Tulsa
+919,Male,90,89667,Artist,0,2,Oklahoma City
+920,Female,56,98980,Engineer,0,1,Louisville
+921,Male,14,124998,Lawyer,1,3,Minneapolis
+922,Male,52,189091,Artist,0,6,Fort Worth
+923,Female,14,153842,Artist,1,3,New Orleans
+924,Male,30,106314,Artist,0,7,Dallas
+925,Female,70,62901,Artist,8,5,San Diego
+926,Male,14,149618,Healthcare,4,6,San Francisco
+927,Female,95,72068,Healthcare,0,6,Oklahoma City
+928,Male,25,81367,,0,3,Denver
+929,Female,95,118575,Entertainment,1,3,Virginia Beach
+930,Female,12,82382,Executive,1,3,San Jose
+931,Male,82,114776,Entertainment,10,3,New York
+932,Female,2,145597,Artist,1,6,Fort Worth
+933,Male,51,162072,Engineer,1,1,Los Angeles
+934,Male,63,172872,Healthcare,0,7,Los Angeles
+935,Female,30,182162,Artist,1,3,Austin
+936,Female,68,71467,Artist,5,7,Tucson
+937,Female,21,85568,Healthcare,0,6,Arlington
+938,Female,99,56851,Entertainment,6,3,Indianapolis
+939,Female,0,116782,Artist,9,5,Dallas
+940,Female,80,67781,Entertainment,4,4,New Orleans
+941,Female,51,70152,Healthcare,0,2,Wichita
+942,Male,18,185861,Artist,3,6,Charlotte
+943,Male,43,162595,Artist,3,3,Seattle
+944,Female,29,80098,Lawyer,10,6,Chicago
+945,Female,20,184801,Lawyer,1,1,Chicago
+946,Female,39,58908,Artist,6,6,Oakland
+947,Female,9,146011,Marketing,9,5,San Diego
+948,Female,45,135174,Artist,9,4,Milwaukee
+949,Female,65,114244,Artist,0,1,Columbus
+950,Female,64,157207,Healthcare,0,4,Indianapolis
+951,Female,81,128834,Entertainment,5,4,Kansas City
+952,Male,54,51166,Entertainment,0,7,Washington
+953,Female,32,130118,Artist,0,4,Milwaukee
+954,Male,29,87014,Doctor,11,4,Louisville
+955,Female,25,111379,Artist,0,2,Tulsa
+956,Male,5,83704,Entertainment,1,1,Louisville
+957,Female,55,90558,Healthcare,8,2,Austin
+958,Male,12,187343,Healthcare,6,3,New York
+959,Female,81,111174,Entertainment,9,6,Austin
+960,Male,87,64461,Engineer,4,4,Omaha
+961,Male,12,109618,Artist,7,3,Nashville
+962,Male,91,189357,Lawyer,7,1,Mesa
+963,Female,63,120955,Artist,6,1,Fort Worth
+964,Female,97,168898,Homemaker,8,7,Detroit
+965,Male,89,130431,Healthcare,6,3,Atlanta
+966,Male,59,161091,Engineer,9,1,Tucson
+967,Female,26,69988,Homemaker,5,4,Long Beach
+968,Female,5,169702,Doctor,5,1,Arlington
+969,Male,32,186897,Healthcare,1,7,Albuquerque
+970,Female,98,109061,Engineer,6,1,Baltimore
+971,Male,31,188620,Artist,3,6,Austin
+972,Female,59,108675,Artist,4,5,Denver
+973,Female,80,177601,Entertainment,0,2,Arlington
+974,Female,12,87365,Marketing,1,2,Indianapolis
+975,Male,80,95929,Engineer,0,2,Atlanta
+976,Male,59,97185,Entertainment,0,5,Las Vegas
+977,Female,56,103838,Artist,1,2,Virginia Beach
+978,Male,18,129260,Doctor,1,3,Oakland
+979,Female,66,151184,Artist,1,4,Detroit
+980,Female,67,177512,Engineer,2,3,Detroit
+981,Male,39,140099,Lawyer,0,7,Colorado Springs
+982,Male,23,67535,Healthcare,7,6,Washington
+983,Male,47,133236,Executive,1,6,Mesa
+984,Female,41,87975,Homemaker,9,7,Las Vegas
+985,Female,40,164350,Healthcare,0,5,Jacksonville
+986,Male,36,55109,Artist,8,3,Minneapolis
+987,Female,12,67613,Entertainment,1,2,Arlington
+988,Female,60,185306,Entertainment,0,2,Memphis
+989,Female,24,154787,Executive,3,5,Memphis
+990,Female,17,109759,Artist,9,3,Milwaukee
+991,Female,92,114571,Executive,1,3,Wichita
+992,Male,32,130697,Artist,1,2,Colorado Springs
+993,Male,39,115916,Doctor,13,6,Oklahoma City
+994,Female,50,69814,Artist,9,2,Austin
+995,Female,85,118161,Engineer,0,4,Miami
+996,Male,65,56583,Healthcare,2,3,Memphis
+997,Female,17,185843,Artist,4,3,Oklahoma City
+998,Female,31,171825,Entertainment,10,4,Washington
+999,Male,24,77976,Artist,11,3,Virginia Beach
+1000,Male,97,66312,Entertainment,0,1,Sacramento
+1001,Female,92,81839,Entertainment,0,4,El Paso
+1002,Female,80,55712,Artist,5,6,Indianapolis
+1003,Male,33,158335,Healthcare,2,5,Omaha
+1004,Male,8,74253,Lawyer,1,6,Mesa
+1005,Male,67,119625,Healthcare,4,4,Minneapolis
+1006,Female,8,129743,Artist,0,2,Austin
+1007,Female,61,101007,Lawyer,0,6,Mesa
+1008,Male,83,87529,Artist,9,7,Minneapolis
+1009,Male,8,151648,Healthcare,8,6,Oakland
+1010,Male,69,61637,,0,5,Nashville
+1011,Male,14,164659,Entertainment,1,6,Miami
+1012,Female,80,125623,Executive,0,4,Oklahoma City
+1013,Female,85,104054,Artist,8,4,Dallas
+1014,Male,88,83535,Artist,1,5,Washington
+1015,Female,76,166245,Executive,7,3,New Orleans
+1016,Female,32,100890,Entertainment,4,4,Sacramento
+1017,Female,99,55972,Entertainment,1,7,San Diego
+1018,Female,85,134282,Artist,2,5,Jacksonville
+1019,Female,25,106669,Lawyer,1,7,Nashville
+1020,Female,99,145777,Executive,1,5,Tucson
+1021,Male,41,119259,Healthcare,1,5,Oakland
+1022,Female,1,150174,Artist,2,2,Fort Worth
+1023,Female,45,55472,Healthcare,1,3,San Diego
+1024,Male,55,99423,Healthcare,0,5,Kansas City
+1025,Female,20,146221,Marketing,0,3,Memphis
+1026,Female,33,84238,Artist,1,2,Milwaukee
+1027,Male,92,57032,Entertainment,1,5,Washington
+1028,Male,93,88811,Engineer,0,4,San Jose
+1029,Male,60,167420,Artist,5,2,Colorado Springs
+1030,Male,38,101846,Doctor,3,2,Portland
+1031,Male,15,114061,Artist,2,5,Austin
+1032,Male,74,147449,Artist,1,5,Austin
+1033,Female,47,83043,Executive,0,1,Houston
+1034,Female,96,168990,Doctor,9,5,New Orleans
+1035,Male,97,73867,Healthcare,4,5,Indianapolis
+1036,Female,35,165772,Healthcare,1,4,New York
+1037,Female,19,178217,Marketing,0,3,Seattle
+1038,Male,60,162612,Engineer,1,6,Miami
+1039,Male,37,99872,Entertainment,11,3,San Jose
+1040,Female,49,142566,Artist,1,7,Charlotte
+1041,Female,1,111424,Entertainment,8,5,El Paso
+1042,Male,43,187841,Artist,1,4,Detroit
+1043,Female,46,171921,Artist,1,6,San Antonio
+1044,Female,65,115299,Artist,6,3,Tucson
+1045,Male,75,94129,Healthcare,6,7,Detroit
+1046,Male,40,172378,Entertainment,5,6,Mesa
+1047,Male,28,146597,Engineer,1,4,San Antonio
+1048,Female,78,64057,Doctor,0,3,Las Vegas
+1049,Female,22,163585,Artist,9,5,Las Vegas
+1050,Male,6,93186,Entertainment,1,3,Minneapolis
+1051,Male,46,149764,Entertainment,0,6,Arlington
+1052,Male,17,116822,Doctor,1,3,Virginia Beach
+1053,Female,46,109346,Entertainment,1,2,Atlanta
+1054,Female,72,111587,Artist,7,4,San Antonio
+1055,Female,38,166644,Artist,8,6,Seattle
+1056,Female,50,181270,Artist,1,1,Virginia Beach
+1057,Male,47,65207,Healthcare,1,2,Colorado Springs
+1058,Female,72,112146,Homemaker,8,4,Wichita
+1059,Male,8,104953,Doctor,1,6,Sacramento
+1060,Female,34,139009,Artist,0,4,Mesa
+1061,Female,53,67916,Healthcare,0,6,Denver
+1062,Female,82,99983,Executive,0,1,Nashville
+1063,Male,63,131122,Artist,9,6,Columbus
+1064,Female,58,173190,Doctor,9,4,Denver
+1065,Male,23,122712,Marketing,1,1,San Francisco
+1066,Female,80,55792,Artist,1,6,Oklahoma City
+1067,Male,45,73892,Doctor,1,4,Raleigh
+1068,Female,30,78821,,1,4,Oakland
+1069,Female,84,152475,Artist,0,7,Tucson
+1070,Male,45,152226,Artist,4,4,Las Vegas
+1071,Male,85,117679,Entertainment,1,3,Denver
+1072,Male,23,146473,Artist,1,4,Denver
+1073,Male,79,66051,Healthcare,1,7,Seattle
+1074,Male,47,162332,Entertainment,1,5,New York
+1075,Female,93,166018,Doctor,0,3,Fort Worth
+1076,Female,95,67398,Entertainment,2,5,Long Beach
+1077,Male,44,73760,Entertainment,1,6,Houston
+1078,Male,95,167578,Entertainment,0,1,Jacksonville
+1079,Male,28,130267,Engineer,8,4,San Diego
+1080,Male,91,94846,Engineer,0,5,Long Beach
+1081,Female,81,155396,Engineer,9,5,Philadelphia
+1082,Female,90,138013,Artist,8,7,Austin
+1083,Male,79,148286,Entertainment,0,4,Raleigh
+1084,Female,6,101031,Artist,1,1,Detroit
+1085,Female,38,52884,Lawyer,1,1,Kansas City
+1086,Male,87,153230,Healthcare,8,1,Louisville
+1087,Female,93,63261,Engineer,1,7,Arlington
+1088,Male,44,90167,Engineer,0,3,El Paso
+1089,Female,10,162076,,0,3,Arlington
+1090,Female,84,53622,Artist,0,3,Memphis
+1091,Female,7,172913,Executive,3,4,San Jose
+1092,Female,41,94316,Artist,0,6,Los Angeles
+1093,Male,87,141383,,7,5,Colorado Springs
+1094,Female,33,67874,Artist,0,2,Washington
+1095,Female,34,176554,Healthcare,1,2,Indianapolis
+1096,Female,53,135341,Healthcare,10,2,Philadelphia
+1097,Female,47,129019,Healthcare,0,3,San Francisco
+1098,Male,53,107879,Doctor,1,6,Albuquerque
+1099,Male,92,79531,Artist,1,1,Albuquerque
+1100,Male,89,63379,Artist,12,7,Virginia Beach
+1101,Female,27,156258,Entertainment,0,4,Milwaukee
+1102,Male,70,67874,Entertainment,9,3,Denver
+1103,Female,86,159964,Engineer,5,6,Los Angeles
+1104,Female,99,103706,Entertainment,1,2,Long Beach
+1105,Female,96,64713,Entertainment,2,7,Houston
+1106,Female,65,90414,Artist,1,5,Portland
+1107,Female,82,171100,Executive,0,5,Mesa
+1108,Male,36,187305,Engineer,6,7,Tulsa
+1109,Female,30,139758,Lawyer,0,6,Phoenix
+1110,Female,96,91226,Healthcare,0,5,Milwaukee
+1111,Female,69,143928,Engineer,9,7,San Francisco
+1112,Female,34,92366,Healthcare,0,6,Tucson
+1113,Male,74,175041,Artist,4,1,Austin
+1114,Male,97,147301,Lawyer,1,5,Baltimore
+1115,Male,56,119296,Engineer,0,7,Jacksonville
+1116,Female,30,126306,Artist,0,1,Raleigh
+1117,Male,13,100647,Executive,1,3,Las Vegas
+1118,Female,95,168663,Engineer,11,5,Detroit
+1119,Female,2,105391,Executive,1,7,Albuquerque
+1120,Female,78,175179,Executive,9,4,Houston
+1121,Female,54,165019,Entertainment,1,2,San Francisco
+1122,Female,85,68212,Healthcare,7,4,Denver
+1123,Male,13,64572,Artist,1,2,San Antonio
+1124,Female,85,92591,Artist,8,2,Seattle
+1125,Female,41,69730,Artist,1,4,Washington
+1126,Female,25,156793,Marketing,2,4,Tulsa
+1127,Female,74,56848,Artist,5,1,Portland
+1128,Male,8,148450,Healthcare,0,6,Washington
+1129,Male,62,150619,Artist,10,6,Minneapolis
+1130,Male,52,100261,Artist,1,6,Oklahoma City
+1131,Female,36,109895,Healthcare,5,2,Miami
+1132,Male,11,152684,Lawyer,0,3,San Diego
+1133,Female,84,133765,Artist,1,3,Long Beach
+1134,Female,99,57677,Lawyer,0,5,Fort Worth
+1135,Female,51,112358,Artist,0,6,Oklahoma City
+1136,Female,57,73845,Artist,1,7,San Antonio
+1137,Male,92,89531,Healthcare,6,2,Atlanta
+1138,Male,29,118092,Entertainment,7,3,Sacramento
+1139,Male,62,144242,Entertainment,1,4,Jacksonville
+1140,Female,43,140876,Entertainment,0,4,Washington
+1141,Male,72,76888,Marketing,0,1,Portland
+1142,Female,28,116644,Artist,6,3,Omaha
+1143,Female,57,143021,Executive,5,4,Houston
+1144,Female,86,145679,Lawyer,9,6,Tucson
+1145,Female,26,64398,Lawyer,1,6,Nashville
+1146,Female,13,104512,Marketing,9,3,Tucson
+1147,Male,1,71564,Artist,1,5,Phoenix
+1148,Female,89,122707,Homemaker,2,3,Miami
+1149,Female,91,51733,Healthcare,0,5,Memphis
+1150,Female,67,138087,Marketing,1,7,Austin
+1151,Male,63,147278,Lawyer,0,4,Austin
+1152,Female,90,187339,Healthcare,0,6,Indianapolis
+1153,Female,87,129972,Executive,1,6,Albuquerque
+1154,Female,89,151176,Healthcare,1,2,Charlotte
+1155,Female,34,74358,Artist,0,6,Austin
+1156,Male,89,83953,Healthcare,0,3,Louisville
+1157,Male,31,62925,Engineer,1,6,San Antonio
+1158,Male,55,65257,Doctor,2,3,Columbus
+1159,Female,3,188557,Healthcare,9,2,Portland
+1160,Male,64,163783,Healthcare,3,1,San Jose
+1161,Female,1,108342,Doctor,0,3,Philadelphia
+1162,Female,20,155951,Healthcare,7,4,San Antonio
+1163,Female,18,183071,Artist,7,4,Charlotte
+1164,Female,83,124104,Healthcare,4,6,Austin
+1165,Female,21,136747,Healthcare,1,1,Minneapolis
+1166,Male,19,189498,Artist,4,1,Albuquerque
+1167,Female,74,76149,Artist,9,6,Louisville
+1168,Female,44,185550,Artist,0,1,Nashville
+1169,Female,52,119567,Artist,5,2,Washington
+1170,Female,14,79806,Engineer,1,6,Jacksonville
+1171,Male,10,180774,Entertainment,1,5,Baltimore
+1172,Female,80,90142,Lawyer,1,2,El Paso
+1173,Female,82,184481,Executive,0,2,Milwaukee
+1174,Female,32,66089,Artist,6,3,Houston
+1175,Female,16,60044,Artist,4,1,Atlanta
+1176,Male,61,52543,Executive,0,6,Denver
+1177,Male,57,50429,Artist,0,1,Dallas
+1178,Male,95,178228,Engineer,1,2,Milwaukee
+1179,Female,38,161130,Artist,8,3,Charlotte
+1180,Male,70,87976,Lawyer,1,6,Atlanta
+1181,Female,40,179150,Artist,5,2,Minneapolis
+1182,Female,92,163442,Executive,1,6,Jacksonville
+1183,Female,73,108159,Entertainment,8,7,Raleigh
+1184,Female,62,73419,Healthcare,0,1,Memphis
+1185,Female,12,138425,Doctor,11,6,Phoenix
+1186,Male,65,54431,Healthcare,1,7,Atlanta
+1187,Female,88,168437,Artist,2,2,Tucson
+1188,Female,55,71322,Entertainment,1,6,San Francisco
+1189,Female,99,122548,,2,5,Oakland
+1190,Female,20,141428,Entertainment,1,5,Milwaukee
+1191,Male,97,142214,Artist,7,4,Louisville
+1192,Female,93,62590,Artist,9,6,New Orleans
+1193,Male,84,172523,Artist,6,2,San Antonio
+1194,Female,16,157588,Executive,2,6,Charlotte
+1195,Female,10,143313,Doctor,4,7,Baltimore
+1196,Female,59,119833,Doctor,1,2,Fresno
+1197,Female,54,70803,Entertainment,0,5,Charlotte
+1198,Male,82,139008,Artist,1,4,Tulsa
+1199,Male,83,126669,Artist,1,6,Tucson
+1200,Male,87,122722,Executive,9,4,Phoenix
+1201,Male,1,79800,Artist,0,1,Chicago
+1202,Male,89,100155,Healthcare,6,1,Minneapolis
+1203,Female,32,110846,Artist,0,2,Fresno
+1204,Female,1,106841,Entertainment,0,3,Boston
+1205,Female,54,117181,Doctor,12,5,Baltimore
+1206,Female,56,86898,Healthcare,0,6,Detroit
+1207,Female,31,143241,Executive,4,7,Chicago
+1208,Female,26,146028,Healthcare,0,5,Boston
+1209,Male,7,165287,Doctor,1,3,Indianapolis
+1210,Female,60,132486,Artist,1,2,Memphis
+1211,Male,92,96424,Artist,8,5,Boston
+1212,Female,93,151468,Artist,1,5,Fresno
+1213,Female,8,76561,Healthcare,0,1,Fort Worth
+1214,Female,81,125316,Lawyer,0,6,New York
+1215,Male,21,109373,Entertainment,4,2,Washington
+1216,Male,96,135042,Artist,0,7,Boston
+1217,Female,78,59784,Artist,3,3,Austin
+1218,Male,86,140687,Artist,1,2,Albuquerque
+1219,Male,1,182927,Healthcare,1,1,Oklahoma City
+1220,Female,62,175534,Artist,1,6,Chicago
+1221,Male,68,170957,Lawyer,1,3,Chicago
+1222,Male,70,81197,Artist,0,4,San Jose
+1223,Female,21,104888,Healthcare,0,4,Dallas
+1224,Male,74,184838,,8,5,Long Beach
+1225,Female,62,139588,Executive,0,2,Raleigh
+1226,Male,22,126543,Homemaker,0,3,New Orleans
+1227,Female,87,177260,Entertainment,14,2,San Diego
+1228,Male,44,156823,Healthcare,9,5,Miami
+1229,Female,27,183201,Engineer,8,6,El Paso
+1230,Female,95,84925,Artist,4,6,Seattle
+1231,Male,89,69719,Artist,9,2,El Paso
+1232,Female,41,61355,Healthcare,1,3,Oakland
+1233,Male,41,156014,Doctor,14,5,Arlington
+1234,Male,21,184088,Entertainment,11,7,Seattle
+1235,Female,59,158372,Artist,1,1,Oklahoma City
+1236,Female,64,135742,Healthcare,1,7,Portland
+1237,Female,38,145704,Marketing,0,4,Wichita
+1238,Female,70,157307,Executive,4,3,Tucson
+1239,Female,25,88064,Executive,1,5,Phoenix
+1240,Female,3,167226,Homemaker,3,1,Phoenix
+1241,Female,70,153821,Marketing,1,4,Long Beach
+1242,Male,29,170669,Doctor,9,5,Nashville
+1243,Male,88,93555,Artist,3,3,Chicago
+1244,Female,20,101941,Healthcare,1,3,Baltimore
+1245,Female,58,78795,Engineer,0,6,Milwaukee
+1246,Female,70,55875,Engineer,0,5,Phoenix
+1247,Female,44,177513,Lawyer,1,5,Jacksonville
+1248,Female,87,100850,Doctor,0,3,Sacramento
+1249,Female,0,143082,Entertainment,0,7,Sacramento
+1250,Female,96,85447,Artist,9,6,Fort Worth
+1251,Female,75,114213,Doctor,9,4,Arlington
+1252,Male,14,161120,Executive,0,1,San Diego
+1253,Female,8,186682,Entertainment,1,1,Chicago
+1254,Male,58,105302,Doctor,0,3,Colorado Springs
+1255,Female,5,133400,Engineer,0,6,Baltimore
+1256,Male,70,56432,Engineer,0,5,Albuquerque
+1257,Female,49,136467,Healthcare,3,3,El Paso
+1258,Male,60,189945,Engineer,0,5,Phoenix
+1259,Female,25,163966,Lawyer,1,5,El Paso
+1260,Male,47,52152,Artist,0,3,Detroit
+1261,Male,53,145720,Homemaker,12,7,Arlington
+1262,Male,24,188034,Healthcare,1,5,Portland
+1263,Female,46,127911,Homemaker,9,2,Nashville
+1264,Female,70,174114,Lawyer,1,1,Miami
+1265,Male,53,144489,Artist,14,3,San Francisco
+1266,Male,63,77440,Lawyer,0,5,New Orleans
+1267,Female,24,86119,Artist,1,6,Columbus
+1268,Female,5,100056,Entertainment,1,3,Las Vegas
+1269,Male,7,66686,Artist,8,7,Omaha
+1270,Female,71,74696,Doctor,1,6,Omaha
+1271,Male,23,65641,Entertainment,4,5,Seattle
+1272,Female,0,61228,Entertainment,1,6,Minneapolis
+1273,Female,2,138529,Healthcare,0,4,Kansas City
+1274,Female,72,152405,Artist,1,4,Virginia Beach
+1275,Male,18,157757,Doctor,0,4,Kansas City
+1276,Male,11,166361,Engineer,6,4,Boston
+1277,Female,95,67227,Artist,1,7,San Diego
+1278,Male,20,161156,Engineer,0,4,Colorado Springs
+1279,Female,58,170647,Healthcare,1,7,Oklahoma City
+1280,Female,67,161646,Healthcare,0,2,Virginia Beach
+1281,Male,43,98016,Healthcare,9,6,Omaha
+1282,Male,36,50526,Artist,0,6,Miami
+1283,Male,2,175208,Executive,8,4,Omaha
+1284,Female,35,97721,Engineer,0,7,Memphis
+1285,Female,81,142013,Entertainment,3,4,Jacksonville
+1286,Male,84,166737,Artist,0,3,Omaha
+1287,Female,18,62651,Entertainment,0,2,Philadelphia
+1288,Female,54,179546,Homemaker,8,4,Phoenix
+1289,Female,98,51866,Artist,12,7,Virginia Beach
+1290,Female,75,86297,Executive,9,4,Fresno
+1291,Female,98,65031,Artist,0,4,Nashville
+1292,Male,94,69383,Entertainment,0,2,San Diego
+1293,Male,24,70733,Artist,5,3,San Francisco
+1294,Female,47,187898,Artist,6,2,Denver
+1295,Female,40,116001,Engineer,1,4,Charlotte
+1296,Male,68,87040,Artist,9,1,El Paso
+1297,Female,18,180956,Artist,2,2,Miami
+1298,Female,83,115517,Healthcare,0,6,Long Beach
+1299,Male,34,76979,Lawyer,1,3,Miami
+1300,Male,81,50798,Artist,10,5,Long Beach
+1301,Female,61,146350,Artist,1,3,Oklahoma City
+1302,Female,77,81112,Healthcare,5,3,Tulsa
+1303,Male,52,80605,Doctor,1,6,Denver
+1304,Male,40,171949,Doctor,1,6,Long Beach
+1305,Male,93,159006,Artist,8,6,New York
+1306,Female,45,177368,Healthcare,1,2,El Paso
+1307,Female,83,187643,Artist,1,1,Omaha
+1308,Male,23,93841,Lawyer,0,7,Wichita
+1309,Male,15,131061,Healthcare,0,7,New Orleans
+1310,Male,79,146130,Entertainment,6,6,Miami
+1311,Male,80,84471,Doctor,1,5,Fresno
+1312,Female,35,144485,Entertainment,0,4,Tucson
+1313,Female,39,158638,Healthcare,2,5,Charlotte
+1314,Male,4,96693,Entertainment,0,4,New Orleans
+1315,Female,83,129507,Healthcare,4,7,Baltimore
+1316,Female,94,114510,Healthcare,0,4,Oklahoma City
+1317,Female,33,109396,,1,2,San Jose
+1318,Female,12,149031,Artist,10,5,Kansas City
+1319,Female,77,66256,Lawyer,1,2,Raleigh
+1320,Female,48,118285,Doctor,8,4,Chicago
+1321,Male,97,128723,Artist,4,5,Sacramento
+1322,Female,28,178285,Artist,4,7,Raleigh
+1323,Female,99,144176,Marketing,7,2,Las Vegas
+1324,Male,27,82474,Artist,9,3,Detroit
+1325,Female,95,159010,Lawyer,6,2,Washington
+1326,Female,6,76164,Artist,6,2,Denver
+1327,Male,18,77873,Executive,6,5,Virginia Beach
+1328,Male,42,53392,Artist,6,4,Columbus
+1329,Male,50,168898,Artist,9,7,Oakland
+1330,Male,86,128917,Homemaker,5,5,Baltimore
+1331,Male,69,185067,Lawyer,5,4,Fort Worth
+1332,Male,23,132183,Artist,10,3,Louisville
+1333,Female,82,82060,Healthcare,7,1,Detroit
+1334,Female,97,133614,Artist,7,4,Louisville
+1335,Male,42,94844,,7,6,Las Vegas
+1336,Female,75,76474,Doctor,5,5,San Antonio
+1337,Female,14,94655,Healthcare,8,1,Louisville
+1338,Male,3,60933,Doctor,8,1,Denver
+1339,Male,16,79257,Healthcare,6,2,El Paso
+1340,Female,45,125677,Entertainment,5,2,Kansas City
+1341,Female,23,127971,Artist,1,5,Washington
+1342,Male,38,76103,Executive,9,3,New Orleans
+1343,Female,45,114741,Artist,0,5,Atlanta
+1344,Female,82,157994,Artist,1,1,Nashville
+1345,Male,73,93786,Entertainment,3,1,New York
+1346,Male,36,75178,Entertainment,1,7,Fresno
+1347,Male,13,175267,Healthcare,1,4,Arlington
+1348,Female,96,99263,Healthcare,8,1,Washington
+1349,Female,83,52590,Healthcare,0,4,San Jose
+1350,Male,33,170959,Artist,0,4,Detroit
+1351,Male,68,135076,Engineer,1,5,Houston
+1352,Male,88,167112,Lawyer,0,1,Portland
+1353,Female,87,184639,Doctor,1,6,Los Angeles
+1354,Female,88,172369,Artist,6,6,Memphis
+1355,Female,43,124256,Marketing,1,7,Phoenix
+1356,Female,64,89972,Artist,10,6,Portland
+1357,Male,96,67799,Entertainment,1,6,Milwaukee
+1358,Female,72,176074,Doctor,1,7,Atlanta
+1359,Male,48,167517,Artist,2,7,Atlanta
+1360,Female,64,77914,Artist,1,6,El Paso
+1361,Female,8,57605,Doctor,0,2,Atlanta
+1362,Female,52,86365,Engineer,1,7,Washington
+1363,Male,3,93883,Healthcare,1,2,Fresno
+1364,Female,44,131091,Artist,4,1,Philadelphia
+1365,Male,14,87222,Healthcare,8,4,Wichita
+1366,Female,50,117076,Doctor,1,2,Tucson
+1367,Male,53,150925,Healthcare,1,2,Minneapolis
+1368,Female,31,149379,Lawyer,0,3,San Diego
+1369,Female,31,138644,Engineer,4,3,Memphis
+1370,Male,97,148493,Doctor,4,7,Raleigh
+1371,Male,27,84658,Lawyer,4,6,Columbus
+1372,Male,2,111618,Lawyer,6,5,San Antonio
+1373,Male,81,108759,Artist,7,6,New Orleans
+1374,Male,64,186203,Artist,10,5,Charlotte
+1375,Female,11,147258,Lawyer,10,2,Boston
+1376,Female,78,132983,Healthcare,7,7,Baltimore
+1377,Male,72,149092,Engineer,8,1,Virginia Beach
+1378,Male,36,163845,Doctor,5,7,New Orleans
+1379,Male,97,117777,Artist,5,5,Baltimore
+1380,Male,88,131584,Artist,7,3,Long Beach
+1381,Female,21,123904,Artist,7,5,Philadelphia
+1382,Female,62,89801,Artist,5,4,Portland
+1383,Male,73,173466,Entertainment,10,5,San Francisco
+1384,Female,34,55690,Marketing,4,6,San Francisco
+1385,Female,50,104467,,5,1,Omaha
+1386,Male,39,100419,Artist,5,4,Houston
+1387,Female,82,62951,Lawyer,8,2,San Diego
+1388,Male,39,118554,Lawyer,4,6,Tucson
+1389,Female,13,140673,Artist,6,7,Fresno
+1390,Female,68,75561,Healthcare,5,3,Memphis
+1391,Female,77,147306,Healthcare,6,6,Oklahoma City
+1392,Female,35,111871,Doctor,10,1,Los Angeles
+1393,Male,5,112884,Healthcare,0,6,Fort Worth
+1394,Female,47,121267,Engineer,1,1,Philadelphia
+1395,Female,48,151519,Artist,7,2,Boston
+1396,Female,34,105448,Artist,0,5,Boston
+1397,Female,20,92048,Healthcare,1,1,Tucson
+1398,Male,61,99980,Healthcare,10,1,Milwaukee
+1399,Male,16,84003,Artist,9,6,Los Angeles
+1400,Male,2,110889,Executive,1,2,Las Vegas
+1401,Female,52,82478,Executive,10,1,Portland
+1402,Male,99,139685,Healthcare,1,4,Houston
+1403,Female,84,182374,Entertainment,0,6,Boston
+1404,Female,58,119366,Engineer,4,2,Oklahoma City
+1405,Female,91,53788,Doctor,0,2,Sacramento
+1406,Female,1,90341,Doctor,0,2,Washington
+1407,Female,67,118348,Engineer,1,7,Seattle
+1408,Male,56,137428,Artist,0,2,Tulsa
+1409,Female,62,106982,Entertainment,1,7,Detroit
+1410,Female,12,98532,Doctor,0,6,Austin
+1411,Female,38,120825,Executive,9,7,Virginia Beach
+1412,Female,51,58006,Executive,1,5,Colorado Springs
+1413,Male,20,106941,Artist,1,1,Minneapolis
+1414,Male,43,129782,Entertainment,1,2,El Paso
+1415,Male,93,121513,Engineer,0,6,Baltimore
+1416,Female,54,79925,Healthcare,0,3,Milwaukee
+1417,Male,23,112089,Healthcare,7,7,Phoenix
+1418,Female,1,138656,,3,4,New York
+1419,Female,64,146794,Healthcare,8,3,Tucson
+1420,Female,55,75033,Engineer,5,5,Denver
+1421,Female,85,149969,Executive,0,6,Detroit
+1422,Female,20,124852,Healthcare,5,5,Fresno
+1423,Male,73,154837,Executive,8,4,San Antonio
+1424,Female,53,145678,Executive,0,1,Raleigh
+1425,Female,7,137354,Artist,8,7,San Diego
+1426,Female,50,136660,Entertainment,1,3,Detroit
+1427,Female,12,63334,Artist,0,6,San Antonio
+1428,Male,37,62893,Executive,1,5,San Francisco
+1429,Male,78,163514,Doctor,9,2,Louisville
+1430,Male,29,145934,Marketing,10,2,Columbus
+1431,Female,54,119223,Lawyer,10,7,San Jose
+1432,Male,89,127479,Doctor,10,2,Austin
+1433,Female,25,136146,Artist,6,6,San Antonio
+1434,Female,14,76001,Artist,7,3,Portland
+1435,Female,12,84885,Healthcare,6,2,Houston
+1436,Female,18,82812,Artist,6,2,Tucson
+1437,Male,74,51260,Entertainment,5,5,Denver
+1438,Male,21,159572,Healthcare,5,5,Indianapolis
+1439,Male,9,130186,Artist,9,7,Washington
+1440,Female,49,176954,Artist,5,6,Boston
+1441,Male,58,85908,Artist,5,4,San Antonio
+1442,Female,16,75831,Healthcare,10,7,Denver
+1443,Female,55,123045,Engineer,7,3,Arlington
+1444,Female,31,161211,Lawyer,9,1,Minneapolis
+1445,Female,59,81702,Marketing,6,4,Denver
+1446,Female,25,173043,Artist,8,6,Houston
+1447,Male,63,126380,Artist,6,1,Indianapolis
+1448,Female,60,128205,Healthcare,6,5,Oklahoma City
+1449,Female,41,181355,Artist,10,3,Oklahoma City
+1450,Female,84,97931,Healthcare,9,7,Portland
+1451,Male,72,146432,Artist,6,1,Oklahoma City
+1452,Female,97,125731,Artist,6,4,Detroit
+1453,Female,43,132701,Healthcare,5,2,Seattle
+1454,Female,63,116095,Artist,5,1,Arlington
+1455,Female,7,135773,Artist,9,5,San Diego
+1456,Male,54,136417,Healthcare,9,6,Tulsa
+1457,Male,27,80783,Artist,9,3,Portland
+1458,Male,28,182580,Executive,6,6,Virginia Beach
+1459,Female,84,143567,Artist,7,2,Las Vegas
+1460,Male,71,85908,Entertainment,5,4,Raleigh
+1461,Female,88,139806,Entertainment,4,4,Tucson
+1462,Female,75,77269,Artist,8,1,Oklahoma City
+1463,Female,96,105968,Engineer,4,5,Columbus
+1464,Female,83,125660,Engineer,10,4,Arlington
+1465,Female,86,98444,Entertainment,7,4,Oklahoma City
+1466,Male,60,179503,Artist,4,3,San Jose
+1467,Female,5,60575,Engineer,5,2,Kansas City
+1468,Female,65,75685,Marketing,7,3,Miami
+1469,Female,49,85374,Artist,8,5,Fort Worth
+1470,Female,78,128642,Marketing,5,6,Philadelphia
+1471,Male,25,182292,Artist,7,5,San Antonio
+1472,Female,5,124702,Artist,10,3,Dallas
+1473,Female,58,127833,Artist,7,7,Miami
+1474,Female,80,178866,Artist,8,4,San Jose
+1475,Female,94,183643,Artist,5,5,Sacramento
+1476,Male,62,113306,Executive,5,6,Seattle
+1477,Male,20,84008,Artist,8,4,Dallas
+1478,Male,85,85758,Lawyer,10,4,Colorado Springs
+1479,Female,72,63128,Engineer,8,7,Austin
+1480,Male,95,70174,Executive,10,6,Atlanta
+1481,Female,97,170133,Engineer,5,5,San Antonio
+1482,Female,25,165978,Artist,7,3,Tucson
+1483,Female,17,149727,Artist,7,3,Washington
+1484,Female,19,147052,,9,4,New Orleans
+1485,Female,59,113389,Doctor,4,6,New York
+1486,Male,30,111690,Entertainment,10,4,Columbus
+1487,Female,63,184830,Doctor,9,3,Tulsa
+1488,Female,23,91549,Artist,4,3,Tulsa
+1489,Female,97,94629,Marketing,6,3,Minneapolis
+1490,Female,97,167558,Artist,4,7,San Francisco
+1491,Male,94,119189,Artist,9,3,San Francisco
+1492,Female,28,96207,Artist,5,5,Jacksonville
+1493,Male,21,85339,Doctor,4,7,Minneapolis
+1494,Female,25,111942,Artist,5,5,New Orleans
+1495,Female,48,157003,Engineer,5,4,Houston
+1496,Female,53,117123,Artist,9,7,San Jose
+1497,Female,97,172747,Artist,7,2,Oakland
+1498,Male,33,157358,Healthcare,7,4,Houston
+1499,Male,5,156655,Entertainment,4,5,Omaha
+1500,Male,72,166043,Doctor,7,6,Oakland
+1501,Male,40,67768,Doctor,10,6,Wichita
+1502,Male,34,171353,Doctor,8,4,Colorado Springs
+1503,Female,63,116971,Executive,7,5,Detroit
+1504,Female,85,97822,Doctor,5,3,Sacramento
+1505,Female,86,117203,Healthcare,10,3,San Jose
+1506,Female,63,88720,Artist,10,1,Kansas City
+1507,Female,9,173233,,5,1,Kansas City
+1508,Female,76,139447,Artist,8,7,Fort Worth
+1509,Male,19,179269,Entertainment,6,3,New Orleans
+1510,Female,84,136254,Engineer,5,6,Houston
+1511,Male,38,174594,Executive,8,2,Tucson
+1512,Female,1,100429,Entertainment,9,1,Tulsa
+1513,Female,30,73107,Artist,9,1,New York
+1514,Female,86,98344,Artist,6,6,Albuquerque
+1515,Male,21,163509,Healthcare,10,1,Washington
+1516,Male,15,116204,Engineer,8,2,Colorado Springs
+1517,Female,87,95853,Healthcare,9,1,Long Beach
+1518,Male,40,156411,Artist,6,5,Las Vegas
+1519,Male,2,72889,Homemaker,5,7,Tucson
+1520,Female,63,106691,Healthcare,9,3,Las Vegas
+1521,Male,26,144832,Artist,5,3,Long Beach
+1522,Male,29,132297,Entertainment,8,1,Austin
+1523,Female,7,170345,Executive,9,5,Tulsa
+1524,Male,28,157383,Lawyer,8,2,New York
+1525,Female,99,150782,Executive,8,2,Houston
+1526,Male,69,143987,Healthcare,10,5,Seattle
+1527,Female,13,129659,Entertainment,6,7,Colorado Springs
+1528,Male,73,104826,Healthcare,5,1,San Jose
+1529,Female,4,181471,Healthcare,10,4,Jacksonville
+1530,Female,42,152547,Artist,7,4,El Paso
+1531,Male,43,85347,Doctor,1,1,Louisville
+1532,Female,79,122828,Executive,0,5,Virginia Beach
+1533,Male,18,107794,Engineer,0,5,Columbus
+1534,Male,39,152566,Entertainment,1,7,Atlanta
+1535,Female,41,91715,Entertainment,0,3,Louisville
+1536,Female,60,99222,Artist,1,6,Las Vegas
+1537,Female,39,70280,Engineer,0,4,Wichita
+1538,Female,90,70030,Healthcare,1,2,Seattle
+1539,Female,83,102083,Artist,1,1,Kansas City
+1540,Female,92,166163,Engineer,8,5,Colorado Springs
+1541,Female,6,182871,Engineer,8,6,Memphis
+1542,Male,50,187545,Executive,4,6,Kansas City
+1543,Male,90,182910,Entertainment,0,1,Baltimore
+1544,Female,13,174530,Lawyer,1,6,Kansas City
+1545,Female,27,115438,Artist,0,6,Washington
+1546,Female,93,93964,Artist,4,2,Charlotte
+1547,Female,61,180341,Healthcare,1,3,Raleigh
+1548,Female,91,107323,Engineer,7,7,Seattle
+1549,Female,79,119435,Entertainment,0,7,Fresno
+1550,Female,80,68341,Artist,13,6,Tulsa
+1551,Female,16,95365,Artist,0,5,New Orleans
+1552,Male,4,131093,Lawyer,1,7,Memphis
+1553,Female,34,100621,Healthcare,1,1,Detroit
+1554,Male,10,116521,Doctor,0,2,Fresno
+1555,Female,3,136316,Executive,0,3,Virginia Beach
+1556,Male,96,172039,Lawyer,0,6,Indianapolis
+1557,Female,48,70844,Entertainment,0,3,Sacramento
+1558,Male,25,100964,Marketing,1,6,New Orleans
+1559,Female,98,128037,Entertainment,6,2,Indianapolis
+1560,Male,84,97081,Marketing,1,3,El Paso
+1561,Male,88,92247,Marketing,0,6,Nashville
+1562,Male,86,129914,Artist,1,3,Fresno
+1563,Female,0,94014,Engineer,9,5,Las Vegas
+1564,Female,56,138864,Artist,0,5,Houston
+1565,Male,6,169299,Marketing,1,5,Portland
+1566,Male,2,119097,Healthcare,0,7,Los Angeles
+1567,Female,73,68161,Doctor,1,2,Louisville
+1568,Female,38,181108,Homemaker,1,1,Philadelphia
+1569,Male,37,87764,Engineer,9,7,San Francisco
+1570,Female,41,102543,Artist,7,3,Austin
+1571,Male,94,139417,Artist,1,3,Miami
+1572,Female,57,81802,Homemaker,9,1,Omaha
+1573,Female,96,102788,Artist,0,1,Kansas City
+1574,Female,59,163179,Healthcare,1,7,Phoenix
+1575,Male,87,71318,Healthcare,1,3,Long Beach
+1576,Male,55,63683,Healthcare,3,1,San Jose
+1577,Female,16,189689,Healthcare,8,5,Fresno
+1578,Male,82,121610,Artist,0,5,Memphis
+1579,Female,83,150682,Artist,1,1,Tulsa
+1580,Female,96,124550,Marketing,0,3,Albuquerque
+1581,Male,55,148875,Artist,0,4,Chicago
+1582,Male,6,107117,Artist,1,3,Las Vegas
+1583,Male,33,109223,Engineer,1,5,Detroit
+1584,Female,0,120899,Marketing,2,6,Philadelphia
+1585,Female,27,101948,Artist,0,5,Milwaukee
+1586,Male,72,143169,Engineer,0,4,Philadelphia
+1587,Female,13,167619,Healthcare,7,6,Los Angeles
+1588,Female,19,181795,Healthcare,3,5,Portland
+1589,Female,48,186445,Engineer,0,1,Detroit
+1590,Female,58,102205,Artist,1,1,Baltimore
+1591,Female,21,52326,Healthcare,0,2,New York
+1592,Male,91,82992,Entertainment,1,5,San Francisco
+1593,Male,44,145520,Homemaker,1,7,Jacksonville
+1594,Female,80,104820,Artist,2,4,Philadelphia
+1595,Female,28,69025,Entertainment,0,2,Raleigh
+1596,Male,74,164976,Entertainment,0,4,Philadelphia
+1597,Female,79,178576,Executive,5,5,San Francisco
+1598,Female,42,72415,Marketing,0,5,Colorado Springs
+1599,Male,80,112146,Entertainment,0,3,Jacksonville
+1600,Male,8,144830,Artist,0,1,Fort Worth
+1601,Female,24,51661,Entertainment,0,7,Portland
+1602,Female,71,152910,Artist,1,6,Sacramento
+1603,Male,1,114556,Entertainment,0,7,Houston
+1604,Male,0,143455,Healthcare,1,6,Long Beach
+1605,Male,30,173096,Healthcare,0,3,Detroit
+1606,Female,52,121172,Healthcare,5,4,Dallas
+1607,Female,34,56492,Homemaker,8,1,Arlington
+1608,Male,64,156422,Entertainment,1,7,Boston
+1609,Male,17,131863,Artist,1,7,Charlotte
+1610,Male,71,118096,Lawyer,0,3,San Diego
+1611,Male,87,149685,Executive,9,6,Jacksonville
+1612,Female,68,89765,Artist,0,7,Memphis
+1613,Female,14,177701,Entertainment,0,6,Albuquerque
+1614,Male,24,64738,Artist,0,6,Fort Worth
+1615,Female,10,92734,Lawyer,1,4,Indianapolis
+1616,Female,53,146877,Healthcare,4,3,Indianapolis
+1617,Female,39,62935,Artist,0,7,San Jose
+1618,Female,16,67178,Entertainment,8,3,Boston
+1619,Female,64,115754,Engineer,1,3,Fresno
+1620,Female,41,186470,Artist,0,7,Los Angeles
+1621,Male,16,100939,Healthcare,7,6,Philadelphia
+1622,Female,94,86172,Artist,4,4,Chicago
+1623,Female,40,184222,Healthcare,0,2,Philadelphia
+1624,Male,81,71543,Entertainment,1,4,San Francisco
+1625,Female,18,174836,Healthcare,0,4,Indianapolis
+1626,Female,78,130706,,3,6,San Diego
+1627,Male,8,74407,Doctor,0,6,San Francisco
+1628,Male,64,130055,Healthcare,2,1,Virginia Beach
+1629,Male,45,88707,Healthcare,0,5,Dallas
+1630,Male,99,162762,Healthcare,1,1,Chicago
+1631,Male,59,154821,Doctor,0,2,Milwaukee
+1632,Male,53,57248,Lawyer,5,5,El Paso
+1633,Female,66,99902,Engineer,10,2,Dallas
+1634,Female,1,165711,Artist,1,2,Boston
+1635,Male,73,97455,,6,4,Columbus
+1636,Female,34,93866,Entertainment,9,2,San Francisco
+1637,Female,1,141307,Healthcare,1,3,Phoenix
+1638,Male,73,172011,Doctor,1,5,San Francisco
+1639,Male,90,68138,Healthcare,2,7,Arlington
+1640,Female,32,123246,Homemaker,8,6,Louisville
+1641,Female,47,124194,Doctor,1,7,Mesa
+1642,Male,15,188696,Homemaker,8,3,Colorado Springs
+1643,Female,78,91213,Lawyer,3,5,Charlotte
+1644,Female,83,166650,Healthcare,1,3,Indianapolis
+1645,Male,2,52727,Artist,1,3,Fresno
+1646,Male,75,126469,Entertainment,1,2,El Paso
+1647,Male,45,138775,Executive,0,7,Minneapolis
+1648,Female,49,68901,Doctor,7,7,Virginia Beach
+1649,Female,41,118621,Homemaker,0,7,Mesa
+1650,Male,34,109263,Entertainment,0,1,Omaha
+1651,Male,82,150012,Healthcare,3,6,Arlington
+1652,Male,37,133850,Marketing,9,3,Miami
+1653,Female,25,81640,Entertainment,1,6,Phoenix
+1654,Female,52,133214,Marketing,9,7,Portland
+1655,Female,23,186723,Entertainment,8,5,Tucson
+1656,Female,96,92100,Artist,9,3,Indianapolis
+1657,Male,5,64484,Homemaker,0,5,Phoenix
+1658,Female,47,69024,Healthcare,4,5,Oklahoma City
+1659,Male,81,171194,Artist,0,5,Miami
+1660,Female,4,183282,Artist,1,1,Denver
+1661,Female,8,100099,Healthcare,1,3,Mesa
+1662,Female,35,164435,Lawyer,1,3,Louisville
+1663,Male,67,172407,Doctor,9,3,El Paso
+1664,Female,9,84781,Executive,1,3,Oklahoma City
+1665,Male,82,186130,Lawyer,3,7,Arlington
+1666,Female,2,56782,Artist,9,5,Dallas
+1667,Male,95,137206,Artist,0,4,Virginia Beach
+1668,Female,9,146950,Doctor,6,5,San Francisco
+1669,Female,99,174275,Healthcare,0,2,El Paso
+1670,Male,96,97705,Homemaker,8,2,San Jose
+1671,Male,92,188984,Lawyer,1,4,Portland
+1672,Male,24,119238,Artist,1,3,Houston
+1673,Male,58,87923,Entertainment,0,5,Fort Worth
+1674,Male,15,128573,Executive,1,1,Virginia Beach
+1675,Female,13,132374,Marketing,0,3,Houston
+1676,Female,51,135164,Artist,9,3,El Paso
+1677,Male,9,165194,Artist,8,3,New York
+1678,Male,0,126060,Doctor,1,3,Wichita
+1679,Male,67,89366,Healthcare,9,3,Louisville
+1680,Male,58,95172,Healthcare,1,5,New York
+1681,Female,55,95975,Executive,0,1,Omaha
+1682,Female,52,165573,Healthcare,0,7,Houston
+1683,Male,83,180887,Entertainment,1,1,Los Angeles
+1684,Female,83,142720,Executive,0,1,New York
+1685,Female,90,113460,Lawyer,1,7,Portland
+1686,Male,87,110434,Artist,7,3,New Orleans
+1687,Female,67,146016,Artist,1,6,Washington
+1688,Male,81,101073,Executive,0,7,San Diego
+1689,Female,36,62617,Artist,9,3,Washington
+1690,Female,51,96028,Artist,0,5,Fort Worth
+1691,Female,31,186334,Artist,0,1,Detroit
+1692,Female,57,163473,Artist,0,1,El Paso
+1693,Male,83,89819,Artist,4,2,Fresno
+1694,Female,51,69388,Engineer,3,4,Houston
+1695,Female,15,134748,Marketing,1,6,Fresno
+1696,Female,18,149915,Doctor,14,1,Memphis
+1697,Female,88,104098,Healthcare,1,6,Los Angeles
+1698,Male,70,80160,Artist,8,5,Philadelphia
+1699,Male,9,124125,Artist,1,2,Colorado Springs
+1700,Male,6,170226,Lawyer,0,3,Nashville
+1701,Female,8,53306,Engineer,0,2,Albuquerque
+1702,Male,55,103933,Executive,6,3,Kansas City
+1703,Female,69,85401,Entertainment,4,6,Indianapolis
+1704,Female,18,53812,Homemaker,9,5,Arlington
+1705,Female,13,60771,Entertainment,1,7,Long Beach
+1706,Female,69,56398,Entertainment,8,3,Seattle
+1707,Female,69,171118,Engineer,9,3,Houston
+1708,Male,69,79806,Healthcare,0,5,Indianapolis
+1709,Female,89,150187,Healthcare,0,5,El Paso
+1710,Female,45,129455,Lawyer,0,3,Portland
+1711,Female,75,116813,Entertainment,10,6,Wichita
+1712,Female,54,95734,Homemaker,8,7,Fort Worth
+1713,Male,33,76654,Artist,4,1,Boston
+1714,Male,67,86289,Artist,1,5,San Jose
+1715,Male,26,176147,Healthcare,0,1,Baltimore
+1716,Female,5,142351,Entertainment,0,7,Charlotte
+1717,Male,65,186673,Doctor,1,1,Omaha
+1718,Female,94,131521,Artist,0,6,Albuquerque
+1719,Female,95,50223,Entertainment,8,1,Phoenix
+1720,Female,48,74308,Entertainment,1,2,Chicago
+1721,Female,41,155881,Lawyer,0,7,Mesa
+1722,Female,92,168303,Executive,9,4,Sacramento
+1723,Male,44,182748,Engineer,1,7,Houston
+1724,Female,35,52374,Artist,1,1,Arlington
+1725,Female,34,86154,Doctor,1,2,Boston
+1726,Female,52,163612,Executive,0,5,Baltimore
+1727,Female,64,64756,Marketing,10,1,Albuquerque
+1728,Male,62,185257,Artist,1,4,Arlington
+1729,Male,58,78669,Artist,1,7,Boston
+1730,Male,15,164520,Artist,1,7,Portland
+1731,Female,65,92135,Homemaker,6,4,Virginia Beach
+1732,Male,20,103195,Doctor,0,7,Jacksonville
+1733,Female,21,161663,Executive,1,7,Tulsa
+1734,Female,79,57039,Artist,2,6,San Diego
+1735,Female,91,54754,Artist,0,2,El Paso
+1736,Female,92,136531,Engineer,1,4,El Paso
+1737,Male,62,120838,Artist,1,4,Denver
+1738,Male,94,127927,Doctor,0,4,Kansas City
+1739,Male,10,164214,Lawyer,0,4,Phoenix
+1740,Female,53,145498,Artist,8,4,Miami
+1741,Male,7,129215,Entertainment,9,6,Raleigh
+1742,Female,92,152429,Entertainment,0,2,Jacksonville
+1743,Female,12,89252,Entertainment,0,5,Baltimore
+1744,Female,31,147447,Doctor,6,7,New Orleans
+1745,Female,93,74467,Lawyer,5,1,Oakland
+1746,Female,66,127410,Engineer,8,2,San Antonio
+1747,Male,49,91290,Healthcare,7,7,Omaha
+1748,Female,64,92812,Artist,5,7,Fresno
+1749,Female,27,170166,Artist,10,4,Los Angeles
+1750,Female,33,150823,Artist,4,1,Portland
+1751,Male,79,95839,Executive,7,2,Indianapolis
+1752,Female,14,60175,Executive,9,7,Detroit
+1753,Female,22,153024,Artist,10,7,Jacksonville
+1754,Female,8,116858,Artist,5,7,San Francisco
+1755,Female,6,122961,Doctor,8,2,Indianapolis
+1756,Male,81,141471,Artist,8,6,New Orleans
+1757,Male,69,76155,Healthcare,8,7,Virginia Beach
+1758,Male,0,108169,Executive,10,3,Mesa
+1759,Female,61,139520,Artist,8,4,Portland
+1760,Male,62,182631,Artist,5,3,Dallas
+1761,Female,95,177134,Healthcare,10,2,Washington
+1762,Female,32,181703,Lawyer,6,2,Oakland
+1763,Female,13,61917,Artist,7,2,Albuquerque
+1764,Female,1,140648,Executive,9,7,Milwaukee
+1765,Female,63,176783,Doctor,9,4,Columbus
+1766,Male,75,59741,Artist,10,5,Baltimore
+1767,Female,43,156567,Engineer,7,6,San Antonio
+1768,Female,29,110309,Artist,6,2,Baltimore
+1769,Female,82,111077,Artist,9,7,Boston
+1770,Female,87,170333,Entertainment,4,2,Tucson
+1771,Male,66,183339,Artist,7,4,Fresno
+1772,Female,99,84167,Artist,10,7,Milwaukee
+1773,Female,54,184815,Lawyer,6,3,Austin
+1774,Female,49,122556,Artist,9,7,Los Angeles
+1775,Female,60,174768,Entertainment,9,2,El Paso
+1776,Male,75,172309,Executive,4,1,Los Angeles
+1777,Male,77,117920,Doctor,10,4,Dallas
+1778,Male,34,134882,Artist,10,3,Wichita
+1779,Female,63,77259,Lawyer,6,6,Columbus
+1780,Male,38,170019,Artist,7,2,New Orleans
+1781,Female,68,176884,Engineer,10,2,New York
+1782,Female,80,106709,Marketing,10,2,Mesa
+1783,Female,8,168723,Homemaker,7,2,Washington
+1784,Female,86,90228,Engineer,7,5,Chicago
+1785,Female,1,89473,Lawyer,10,4,Fresno
+1786,Male,56,131911,Healthcare,7,7,San Diego
+1787,Female,14,140107,Marketing,6,6,Nashville
+1788,Female,4,170403,Artist,4,5,Minneapolis
+1789,Female,58,51416,,7,5,Detroit
+1790,Female,6,52648,Artist,5,2,Nashville
+1791,Male,17,125471,Engineer,7,1,Phoenix
+1792,Female,55,106153,Artist,10,1,El Paso
+1793,Male,14,124785,Lawyer,7,2,Miami
+1794,Female,22,101474,Homemaker,10,2,Las Vegas
+1795,Female,8,141359,Healthcare,4,5,Philadelphia
+1796,Female,70,57596,Artist,4,1,Columbus
+1797,Female,67,78489,Artist,7,5,Albuquerque
+1798,Male,50,112957,Executive,5,3,Denver
+1799,Male,72,82377,Engineer,9,2,Milwaukee
+1800,Male,76,82315,Engineer,6,1,San Antonio
+1801,Male,80,93253,Artist,4,5,Memphis
+1802,Male,20,189650,Lawyer,8,4,El Paso
+1803,Female,89,114858,Artist,10,1,Las Vegas
+1804,Female,18,62151,Artist,8,2,Atlanta
+1805,Female,75,135159,Engineer,7,6,Tucson
+1806,Female,5,126263,Marketing,6,3,Phoenix
+1807,Female,79,123064,Artist,10,4,San Antonio
+1808,Female,31,181773,Healthcare,8,1,Philadelphia
+1809,Male,92,171794,Artist,6,5,Oakland
+1810,Female,15,156339,Homemaker,6,2,Tulsa
+1811,Male,94,65483,Marketing,10,7,Columbus
+1812,Female,35,145654,Executive,6,3,Washington
+1813,Female,68,91609,Entertainment,8,1,Seattle
+1814,Female,29,53002,Lawyer,5,5,Oklahoma City
+1815,Male,87,115699,Healthcare,9,1,Omaha
+1816,Male,33,149609,Executive,9,2,Jacksonville
+1817,Female,29,165254,Executive,9,7,Omaha
+1818,Male,43,50418,Healthcare,5,1,Boston
+1819,Male,43,103531,Artist,10,5,San Diego
+1820,Female,66,184060,Artist,10,5,Louisville
+1821,Male,23,75961,Executive,5,7,Memphis
+1822,Male,87,174163,Artist,4,2,Austin
+1823,Female,81,105255,Executive,8,3,Arlington
+1824,Male,42,51860,Lawyer,4,5,Wichita
+1825,Female,32,185218,Healthcare,4,6,Raleigh
+1826,Male,7,189709,Artist,6,6,Chicago
+1827,Female,91,134665,Artist,7,2,Virginia Beach
+1828,Male,95,91352,Doctor,7,3,Arlington
+1829,Female,10,154623,Artist,6,6,Memphis
+1830,Female,20,113767,Artist,6,2,Philadelphia
+1831,Male,5,160469,Lawyer,8,1,Phoenix
+1832,Female,84,99418,Artist,4,2,Colorado Springs
+1833,Male,54,56215,Healthcare,10,4,Charlotte
+1834,Male,12,55639,Healthcare,8,1,San Francisco
+1835,Female,90,62504,Artist,10,4,Nashville
+1836,Female,19,151382,Lawyer,1,1,Fort Worth
+1837,Female,91,156574,Marketing,0,7,Raleigh
+1838,Female,90,60998,Entertainment,1,7,Louisville
+1839,Female,60,108509,Doctor,0,2,Kansas City
+1840,Female,68,85540,Homemaker,9,1,Sacramento
+1841,Female,43,73915,Artist,11,2,Baltimore
+1842,Male,52,148901,Healthcare,4,4,Denver
+1843,Male,81,152602,Entertainment,0,1,Portland
+1844,Female,54,58999,Entertainment,7,3,Denver
+1845,Female,43,133740,Artist,5,4,San Antonio
+1846,Female,20,113217,Lawyer,9,1,Boston
+1847,Female,71,60209,Artist,1,3,Indianapolis
+1848,Female,26,145491,Entertainment,9,5,Washington
+1849,Female,75,61393,Doctor,7,5,Milwaukee
+1850,Female,52,133252,Artist,1,1,Oakland
+1851,Female,40,187234,Doctor,0,5,Long Beach
+1852,Male,5,145563,Entertainment,9,6,Louisville
+1853,Female,46,165810,Healthcare,3,5,El Paso
+1854,Male,98,125181,Artist,0,7,Fort Worth
+1855,Female,84,56809,Healthcare,1,2,San Francisco
+1856,Male,35,69419,Healthcare,9,1,Seattle
+1857,Female,78,70689,Artist,1,4,Baltimore
+1858,Male,64,55011,Artist,1,7,Omaha
+1859,Female,98,87955,Engineer,0,2,Milwaukee
+1860,Male,66,153660,Healthcare,0,5,Fort Worth
+1861,Male,32,104494,Healthcare,6,4,Detroit
+1862,Male,22,184443,Executive,3,7,San Diego
+1863,Female,17,150778,Entertainment,1,7,Memphis
+1864,Female,22,88729,Engineer,1,1,Tulsa
+1865,Male,9,151902,Artist,0,2,Wichita
+1866,Male,24,51604,Artist,0,2,Wichita
+1867,Female,8,157316,Artist,9,3,Portland
+1868,Female,52,125508,Artist,1,6,Dallas
+1869,Male,62,186157,Healthcare,1,1,Indianapolis
+1870,Female,37,169381,Entertainment,0,4,Raleigh
+1871,Male,68,110195,Homemaker,9,2,Phoenix
+1872,Female,63,81199,Entertainment,1,2,Charlotte
+1873,Female,15,58459,Executive,0,6,Austin
+1874,Female,44,173682,Artist,12,6,Fort Worth
+1875,Male,18,162983,Entertainment,0,6,Virginia Beach
+1876,Male,30,94480,Executive,0,4,Mesa
+1877,Female,69,168710,Doctor,1,4,Phoenix
+1878,Male,16,150193,Engineer,2,2,Seattle
+1879,Female,71,91823,Artist,1,4,Dallas
+1880,Female,24,173091,Entertainment,6,2,Dallas
+1881,Male,57,102692,Healthcare,0,2,Milwaukee
+1882,Male,97,156812,Healthcare,0,6,Milwaukee
+1883,Male,68,51468,Artist,0,3,Fort Worth
+1884,Female,11,114071,Healthcare,0,2,Jacksonville
+1885,Female,63,155638,,1,4,Albuquerque
+1886,Male,68,129971,Artist,8,3,Louisville
+1887,Female,69,104160,Engineer,4,4,Kansas City
+1888,Female,77,124995,Healthcare,0,1,Jacksonville
+1889,Female,73,180437,Entertainment,1,5,Long Beach
+1890,Female,19,134644,Executive,1,2,San Antonio
+1891,Female,1,130089,Artist,0,5,Charlotte
+1892,Male,71,149318,Artist,4,1,San Diego
+1893,Male,6,125591,Healthcare,8,6,San Antonio
+1894,Female,68,173047,Healthcare,0,3,Denver
+1895,Female,39,61298,Artist,0,5,Jacksonville
+1896,Male,75,132993,Entertainment,8,2,Austin
+1897,Female,65,72313,Lawyer,1,5,Fresno
+1898,Female,30,84885,Entertainment,6,5,Denver
+1899,Male,46,126228,Marketing,8,2,Boston
+1900,Male,40,51199,Executive,7,7,Kansas City
+1901,Female,40,54631,Artist,0,6,Philadelphia
+1902,Female,20,131810,Healthcare,5,7,Long Beach
+1903,Male,88,138482,Marketing,8,4,Columbus
+1904,Male,85,74081,Healthcare,4,3,Oklahoma City
+1905,Male,94,112426,Engineer,9,6,Chicago
+1906,Female,52,164038,,5,4,Tulsa
+1907,Female,68,53552,Marketing,7,6,San Francisco
+1908,Male,15,142147,Artist,8,4,Las Vegas
+1909,Male,4,180324,Artist,9,2,Arlington
+1910,Male,59,149067,Doctor,9,7,Albuquerque
+1911,Male,32,184408,Entertainment,6,7,Las Vegas
+1912,Female,8,59116,Artist,10,6,Virginia Beach
+1913,Female,92,174786,Executive,4,3,Los Angeles
+1914,Male,9,71076,Artist,8,1,Houston
+1915,Female,41,56837,Healthcare,8,4,Washington
+1916,Female,18,134752,Engineer,6,5,Mesa
+1917,Female,78,112887,Entertainment,9,6,Nashville
+1918,Female,0,73128,Artist,7,5,Atlanta
+1919,Female,11,152765,Healthcare,8,1,Fort Worth
+1920,Female,36,140637,Executive,8,7,Raleigh
+1921,Male,46,137973,Healthcare,7,7,Miami
+1922,Female,95,126791,Artist,6,4,Detroit
+1923,Female,97,75125,Executive,8,3,Boston
+1924,Male,2,101718,Executive,8,3,Denver
+1925,Female,94,69654,Homemaker,4,4,Houston
+1926,Female,0,105935,Doctor,4,5,Tucson
+1927,Male,3,74607,Healthcare,6,1,San Diego
+1928,Male,77,151985,Healthcare,4,7,Portland
+1929,Male,70,76892,Executive,5,2,El Paso
+1930,Male,58,87602,Executive,5,3,Charlotte
+1931,Male,72,182317,Healthcare,8,6,Tucson
+1932,Male,90,158280,Executive,6,7,Albuquerque
+1933,Female,23,59905,,7,5,Los Angeles
+1934,Female,87,128153,Artist,7,6,Philadelphia
+1935,Male,64,142612,Doctor,4,6,Tucson
+1936,Female,15,180163,Doctor,10,7,Kansas City
+1937,Female,14,68009,Artist,9,3,Colorado Springs
+1938,Male,54,166183,Artist,7,6,Boston
+1939,Male,76,132537,Doctor,5,3,San Jose
+1940,Female,76,146308,Artist,5,1,Tulsa
+1941,Female,52,63454,Artist,5,5,Austin
+1942,Male,96,110519,Artist,9,4,Austin
+1943,Female,55,66728,Healthcare,10,5,Nashville
+1944,Female,54,170638,Artist,4,5,Austin
+1945,Male,19,129635,Artist,6,4,Dallas
+1946,Male,29,133587,Marketing,5,3,Atlanta
+1947,Male,96,126225,Engineer,7,4,Houston
+1948,Female,20,148776,Artist,8,5,Colorado Springs
+1949,Female,91,142602,Lawyer,7,6,Dallas
+1950,Male,37,102413,Healthcare,5,5,San Diego
+1951,Male,42,68765,Entertainment,4,1,Wichita
+1952,Male,1,57522,Artist,10,5,Fort Worth
+1953,Female,58,149237,Entertainment,8,6,Virginia Beach
+1954,Female,42,184844,Entertainment,6,1,Denver
+1955,Female,48,131656,Lawyer,9,6,Milwaukee
+1956,Female,11,181026,Marketing,6,2,El Paso
+1957,Male,59,101698,Artist,9,3,Omaha
+1958,Female,45,152560,Entertainment,9,2,New York
+1959,Male,73,142502,Doctor,5,1,Tulsa
+1960,Female,85,155432,Engineer,4,6,Charlotte
+1961,Female,70,108544,Entertainment,4,5,Mesa
+1962,Female,52,106530,Engineer,7,2,Chicago
+1963,Male,70,124359,Homemaker,7,7,Memphis
+1964,Female,88,146970,Artist,7,6,Boston
+1965,Male,61,182176,Artist,9,5,Atlanta
+1966,Female,46,114435,Artist,8,3,Memphis
+1967,Male,65,134213,Homemaker,8,4,San Antonio
+1968,Female,84,115580,Entertainment,8,5,Memphis
+1969,Female,76,124034,Executive,10,2,San Antonio
+1970,Male,31,67894,Doctor,9,1,Fresno
+1971,Male,55,107099,Executive,4,6,Kansas City
+1972,Male,45,140263,Entertainment,10,5,Tulsa
+1973,Male,98,104249,Engineer,5,2,Austin
+1974,Male,40,168821,Executive,4,5,Denver
+1975,Female,14,153145,Healthcare,8,6,Charlotte
+1976,Female,41,128960,Executive,9,4,Long Beach
+1977,Male,60,127438,Engineer,7,2,Baltimore
+1978,Male,60,125968,Lawyer,8,2,Louisville
+1979,Male,84,104589,Artist,10,2,Portland
+1980,Male,0,165321,Doctor,8,1,Nashville
+1981,Female,10,86925,Artist,7,2,Tucson
+1982,Female,62,149797,Artist,5,6,Indianapolis
+1983,Male,33,137094,Lawyer,4,1,Nashville
+1984,Female,52,55395,Marketing,10,1,Chicago
+1985,Female,2,153622,Lawyer,6,6,Minneapolis
+1986,Male,27,74050,Entertainment,8,1,San Jose
+1987,Female,4,68094,Doctor,4,7,Baltimore
+1988,Male,63,59244,Artist,7,1,Kansas City
+1989,Female,54,118944,Artist,4,4,Nashville
+1990,Female,47,75293,Doctor,6,7,Nashville
+1991,Female,30,166983,Artist,7,3,Charlotte
+1992,Female,97,129444,Entertainment,5,6,Virginia Beach
+1993,Male,94,181183,Marketing,9,3,Memphis
+1994,Female,64,175254,Artist,9,5,Albuquerque
+1995,Female,19,54121,Engineer,6,3,Philadelphia
+1996,Female,71,184387,Artist,8,7,Atlanta
+1997,Female,91,73158,Doctor,7,7,Albuquerque
+1998,Male,87,90961,Healthcare,9,2,Memphis
+1999,Male,77,182109,Executive,7,2,Houston
+2000,Male,90,110610,Entertainment,5,2,Seattle
